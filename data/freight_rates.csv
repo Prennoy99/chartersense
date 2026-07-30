@@ -1,0 +1,1261 @@
+rate_id,route,date,rate_usd_per_ton_or_day,vessel_type
+1,Tubarao-Qingdao,2024-07-15,12.31,Capesize
+2,Tubarao-Qingdao,2024-07-22,13.01,Capesize
+3,Tubarao-Qingdao,2024-07-29,12.67,Capesize
+4,Tubarao-Qingdao,2024-08-05,12.62,Capesize
+5,Tubarao-Qingdao,2024-08-12,13.54,Capesize
+6,Tubarao-Qingdao,2024-08-19,13.61,Capesize
+7,Tubarao-Qingdao,2024-08-26,13.18,Capesize
+8,Tubarao-Qingdao,2024-09-02,13.07,Capesize
+9,Tubarao-Qingdao,2024-09-09,13.97,Capesize
+10,Tubarao-Qingdao,2024-09-16,14.35,Capesize
+11,Tubarao-Qingdao,2024-09-23,13.73,Capesize
+12,Tubarao-Qingdao,2024-09-30,13.92,Capesize
+13,Tubarao-Qingdao,2024-10-07,14.17,Capesize
+14,Tubarao-Qingdao,2024-10-14,14.43,Capesize
+15,Tubarao-Qingdao,2024-10-21,14.56,Capesize
+16,Tubarao-Qingdao,2024-10-28,14.6,Capesize
+17,Tubarao-Qingdao,2024-11-04,14.87,Capesize
+18,Tubarao-Qingdao,2024-11-11,14.5,Capesize
+19,Tubarao-Qingdao,2024-11-18,14.21,Capesize
+20,Tubarao-Qingdao,2024-11-25,14.29,Capesize
+21,Tubarao-Qingdao,2024-12-02,14.87,Capesize
+22,Tubarao-Qingdao,2024-12-09,14.76,Capesize
+23,Tubarao-Qingdao,2024-12-16,14.5,Capesize
+24,Tubarao-Qingdao,2024-12-23,14.04,Capesize
+25,Tubarao-Qingdao,2024-12-30,13.66,Capesize
+26,Tubarao-Qingdao,2025-01-06,12.7,Capesize
+27,Tubarao-Qingdao,2025-01-13,13.31,Capesize
+28,Tubarao-Qingdao,2025-01-20,13.98,Capesize
+29,Tubarao-Qingdao,2025-01-27,13.68,Capesize
+30,Tubarao-Qingdao,2025-02-03,13.62,Capesize
+31,Tubarao-Qingdao,2025-02-10,12.67,Capesize
+32,Tubarao-Qingdao,2025-02-17,13.48,Capesize
+33,Tubarao-Qingdao,2025-02-24,14.34,Capesize
+34,Tubarao-Qingdao,2025-03-03,14.3,Capesize
+35,Tubarao-Qingdao,2025-03-10,13.36,Capesize
+36,Tubarao-Qingdao,2025-03-17,13.22,Capesize
+37,Tubarao-Qingdao,2025-03-24,12.82,Capesize
+38,Tubarao-Qingdao,2025-03-31,12.31,Capesize
+39,Tubarao-Qingdao,2025-04-07,11.36,Capesize
+40,Tubarao-Qingdao,2025-04-14,11.12,Capesize
+41,Tubarao-Qingdao,2025-04-21,10.95,Capesize
+42,Tubarao-Qingdao,2025-04-28,11.07,Capesize
+43,Tubarao-Qingdao,2025-05-05,10.86,Capesize
+44,Tubarao-Qingdao,2025-05-12,10.22,Capesize
+45,Tubarao-Qingdao,2025-05-19,10.67,Capesize
+46,Tubarao-Qingdao,2025-05-26,10.46,Capesize
+47,Tubarao-Qingdao,2025-06-02,10.23,Capesize
+48,Tubarao-Qingdao,2025-06-09,9.77,Capesize
+49,Tubarao-Qingdao,2025-06-16,9.62,Capesize
+50,Tubarao-Qingdao,2025-06-23,9.12,Capesize
+51,Tubarao-Qingdao,2025-06-30,9.63,Capesize
+52,Tubarao-Qingdao,2025-07-07,10.42,Capesize
+53,Tubarao-Qingdao,2025-07-14,11.01,Capesize
+54,Tubarao-Qingdao,2025-07-21,11.36,Capesize
+55,Tubarao-Qingdao,2025-07-28,10.95,Capesize
+56,Tubarao-Qingdao,2025-08-04,11.42,Capesize
+57,Tubarao-Qingdao,2025-08-11,12.01,Capesize
+58,Tubarao-Qingdao,2025-08-18,11.84,Capesize
+59,Tubarao-Qingdao,2025-08-25,12.52,Capesize
+60,Tubarao-Qingdao,2025-09-01,11.91,Capesize
+61,Tubarao-Qingdao,2025-09-08,11.51,Capesize
+62,Tubarao-Qingdao,2025-09-15,11.77,Capesize
+63,Tubarao-Qingdao,2025-09-22,12.0,Capesize
+64,Tubarao-Qingdao,2025-09-29,11.56,Capesize
+65,Tubarao-Qingdao,2025-10-06,11.79,Capesize
+66,Tubarao-Qingdao,2025-10-13,11.19,Capesize
+67,Tubarao-Qingdao,2025-10-20,10.27,Capesize
+68,Tubarao-Qingdao,2025-10-27,9.41,Capesize
+69,Tubarao-Qingdao,2025-11-03,9.47,Capesize
+70,Tubarao-Qingdao,2025-11-10,8.87,Capesize
+71,Tubarao-Qingdao,2025-11-17,8.11,Capesize
+72,Tubarao-Qingdao,2025-11-24,7.66,Capesize
+73,Tubarao-Qingdao,2025-12-01,8.08,Capesize
+74,Tubarao-Qingdao,2025-12-08,8.51,Capesize
+75,Tubarao-Qingdao,2025-12-15,8.0,Capesize
+76,Tubarao-Qingdao,2025-12-22,7.33,Capesize
+77,Tubarao-Qingdao,2025-12-29,7.32,Capesize
+78,Tubarao-Qingdao,2026-01-05,7.01,Capesize
+79,Tubarao-Qingdao,2026-01-12,6.65,Capesize
+80,Tubarao-Qingdao,2026-01-19,7.23,Capesize
+81,Tubarao-Qingdao,2026-01-26,8.18,Capesize
+82,Tubarao-Qingdao,2026-02-02,8.11,Capesize
+83,Tubarao-Qingdao,2026-02-09,8.67,Capesize
+84,Tubarao-Qingdao,2026-02-16,8.35,Capesize
+85,Tubarao-Qingdao,2026-02-23,9.01,Capesize
+86,Tubarao-Qingdao,2026-03-02,9.87,Capesize
+87,Tubarao-Qingdao,2026-03-09,9.02,Capesize
+88,Tubarao-Qingdao,2026-03-16,9.55,Capesize
+89,Tubarao-Qingdao,2026-03-23,8.73,Capesize
+90,Tubarao-Qingdao,2026-03-30,8.67,Capesize
+91,Tubarao-Qingdao,2026-04-06,8.08,Capesize
+92,Tubarao-Qingdao,2026-04-13,8.74,Capesize
+93,Tubarao-Qingdao,2026-04-20,9.34,Capesize
+94,Tubarao-Qingdao,2026-04-27,9.97,Capesize
+95,Tubarao-Qingdao,2026-05-04,9.25,Capesize
+96,Tubarao-Qingdao,2026-05-11,9.76,Capesize
+97,Tubarao-Qingdao,2026-05-18,9.28,Capesize
+98,Tubarao-Qingdao,2026-05-25,9.8,Capesize
+99,Tubarao-Qingdao,2026-06-01,9.69,Capesize
+100,Tubarao-Qingdao,2026-06-08,10.15,Capesize
+101,Tubarao-Qingdao,2026-06-15,9.25,Capesize
+102,Tubarao-Qingdao,2026-06-22,9.18,Capesize
+103,Tubarao-Qingdao,2026-06-29,9.7,Capesize
+104,Tubarao-Qingdao,2026-07-06,9.74,Capesize
+105,Tubarao-Qingdao,2026-07-13,10.67,Capesize
+106,Port Hedland-Qingdao,2024-07-15,8.96,Capesize
+107,Port Hedland-Qingdao,2024-07-22,9.22,Capesize
+108,Port Hedland-Qingdao,2024-07-29,8.95,Capesize
+109,Port Hedland-Qingdao,2024-08-05,8.7,Capesize
+110,Port Hedland-Qingdao,2024-08-12,8.88,Capesize
+111,Port Hedland-Qingdao,2024-08-19,8.22,Capesize
+112,Port Hedland-Qingdao,2024-08-26,8.85,Capesize
+113,Port Hedland-Qingdao,2024-09-02,8.88,Capesize
+114,Port Hedland-Qingdao,2024-09-09,8.53,Capesize
+115,Port Hedland-Qingdao,2024-09-16,8.73,Capesize
+116,Port Hedland-Qingdao,2024-09-23,8.29,Capesize
+117,Port Hedland-Qingdao,2024-09-30,8.85,Capesize
+118,Port Hedland-Qingdao,2024-10-07,9.38,Capesize
+119,Port Hedland-Qingdao,2024-10-14,8.97,Capesize
+120,Port Hedland-Qingdao,2024-10-21,8.41,Capesize
+121,Port Hedland-Qingdao,2024-10-28,8.6,Capesize
+122,Port Hedland-Qingdao,2024-11-04,8.35,Capesize
+123,Port Hedland-Qingdao,2024-11-11,7.87,Capesize
+124,Port Hedland-Qingdao,2024-11-18,7.55,Capesize
+125,Port Hedland-Qingdao,2024-11-25,7.0,Capesize
+126,Port Hedland-Qingdao,2024-12-02,7.42,Capesize
+127,Port Hedland-Qingdao,2024-12-09,6.71,Capesize
+128,Port Hedland-Qingdao,2024-12-16,6.05,Capesize
+129,Port Hedland-Qingdao,2024-12-23,6.46,Capesize
+130,Port Hedland-Qingdao,2024-12-30,6.42,Capesize
+131,Port Hedland-Qingdao,2025-01-06,6.56,Capesize
+132,Port Hedland-Qingdao,2025-01-13,6.38,Capesize
+133,Port Hedland-Qingdao,2025-01-20,5.79,Capesize
+134,Port Hedland-Qingdao,2025-01-27,5.29,Capesize
+135,Port Hedland-Qingdao,2025-02-03,4.7,Capesize
+136,Port Hedland-Qingdao,2025-02-10,4.88,Capesize
+137,Port Hedland-Qingdao,2025-02-17,5.5,Capesize
+138,Port Hedland-Qingdao,2025-02-24,6.21,Capesize
+139,Port Hedland-Qingdao,2025-03-03,6.39,Capesize
+140,Port Hedland-Qingdao,2025-03-10,5.76,Capesize
+141,Port Hedland-Qingdao,2025-03-17,5.97,Capesize
+142,Port Hedland-Qingdao,2025-03-24,6.26,Capesize
+143,Port Hedland-Qingdao,2025-03-31,6.68,Capesize
+144,Port Hedland-Qingdao,2025-04-07,6.14,Capesize
+145,Port Hedland-Qingdao,2025-04-14,5.75,Capesize
+146,Port Hedland-Qingdao,2025-04-21,6.45,Capesize
+147,Port Hedland-Qingdao,2025-04-28,6.86,Capesize
+148,Port Hedland-Qingdao,2025-05-05,7.23,Capesize
+149,Port Hedland-Qingdao,2025-05-12,7.67,Capesize
+150,Port Hedland-Qingdao,2025-05-19,7.58,Capesize
+151,Port Hedland-Qingdao,2025-05-26,7.14,Capesize
+152,Port Hedland-Qingdao,2025-06-02,7.41,Capesize
+153,Port Hedland-Qingdao,2025-06-09,7.21,Capesize
+154,Port Hedland-Qingdao,2025-06-16,6.68,Capesize
+155,Port Hedland-Qingdao,2025-06-23,7.26,Capesize
+156,Port Hedland-Qingdao,2025-06-30,7.24,Capesize
+157,Port Hedland-Qingdao,2025-07-07,7.15,Capesize
+158,Port Hedland-Qingdao,2025-07-14,6.85,Capesize
+159,Port Hedland-Qingdao,2025-07-21,7.13,Capesize
+160,Port Hedland-Qingdao,2025-07-28,6.69,Capesize
+161,Port Hedland-Qingdao,2025-08-04,6.24,Capesize
+162,Port Hedland-Qingdao,2025-08-11,6.02,Capesize
+163,Port Hedland-Qingdao,2025-08-18,6.35,Capesize
+164,Port Hedland-Qingdao,2025-08-25,6.03,Capesize
+165,Port Hedland-Qingdao,2025-09-01,6.5,Capesize
+166,Port Hedland-Qingdao,2025-09-08,7.1,Capesize
+167,Port Hedland-Qingdao,2025-09-15,7.18,Capesize
+168,Port Hedland-Qingdao,2025-09-22,6.56,Capesize
+169,Port Hedland-Qingdao,2025-09-29,6.06,Capesize
+170,Port Hedland-Qingdao,2025-10-06,5.77,Capesize
+171,Port Hedland-Qingdao,2025-10-13,5.43,Capesize
+172,Port Hedland-Qingdao,2025-10-20,5.24,Capesize
+173,Port Hedland-Qingdao,2025-10-27,4.52,Capesize
+174,Port Hedland-Qingdao,2025-11-03,4.72,Capesize
+175,Port Hedland-Qingdao,2025-11-10,4.54,Capesize
+176,Port Hedland-Qingdao,2025-11-17,4.2,Capesize
+177,Port Hedland-Qingdao,2025-11-24,4.2,Capesize
+178,Port Hedland-Qingdao,2025-12-01,4.71,Capesize
+179,Port Hedland-Qingdao,2025-12-08,5.11,Capesize
+180,Port Hedland-Qingdao,2025-12-15,4.74,Capesize
+181,Port Hedland-Qingdao,2025-12-22,5.05,Capesize
+182,Port Hedland-Qingdao,2025-12-29,5.28,Capesize
+183,Port Hedland-Qingdao,2026-01-05,5.34,Capesize
+184,Port Hedland-Qingdao,2026-01-12,5.18,Capesize
+185,Port Hedland-Qingdao,2026-01-19,5.21,Capesize
+186,Port Hedland-Qingdao,2026-01-26,5.21,Capesize
+187,Port Hedland-Qingdao,2026-02-02,5.28,Capesize
+188,Port Hedland-Qingdao,2026-02-09,5.44,Capesize
+189,Port Hedland-Qingdao,2026-02-16,5.19,Capesize
+190,Port Hedland-Qingdao,2026-02-23,5.39,Capesize
+191,Port Hedland-Qingdao,2026-03-02,4.83,Capesize
+192,Port Hedland-Qingdao,2026-03-09,4.86,Capesize
+193,Port Hedland-Qingdao,2026-03-16,4.24,Capesize
+194,Port Hedland-Qingdao,2026-03-23,4.72,Capesize
+195,Port Hedland-Qingdao,2026-03-30,4.2,Capesize
+196,Port Hedland-Qingdao,2026-04-06,4.74,Capesize
+197,Port Hedland-Qingdao,2026-04-13,4.31,Capesize
+198,Port Hedland-Qingdao,2026-04-20,4.29,Capesize
+199,Port Hedland-Qingdao,2026-04-27,4.2,Capesize
+200,Port Hedland-Qingdao,2026-05-04,4.3,Capesize
+201,Port Hedland-Qingdao,2026-05-11,4.79,Capesize
+202,Port Hedland-Qingdao,2026-05-18,5.01,Capesize
+203,Port Hedland-Qingdao,2026-05-25,5.05,Capesize
+204,Port Hedland-Qingdao,2026-06-01,5.34,Capesize
+205,Port Hedland-Qingdao,2026-06-08,4.99,Capesize
+206,Port Hedland-Qingdao,2026-06-15,4.8,Capesize
+207,Port Hedland-Qingdao,2026-06-22,4.95,Capesize
+208,Port Hedland-Qingdao,2026-06-29,4.33,Capesize
+209,Port Hedland-Qingdao,2026-07-06,4.95,Capesize
+210,Port Hedland-Qingdao,2026-07-13,4.53,Capesize
+211,Newcastle-Visakhapatnam,2024-07-15,13.98,Capesize
+212,Newcastle-Visakhapatnam,2024-07-22,14.85,Capesize
+213,Newcastle-Visakhapatnam,2024-07-29,13.91,Capesize
+214,Newcastle-Visakhapatnam,2024-08-05,14.59,Capesize
+215,Newcastle-Visakhapatnam,2024-08-12,13.6,Capesize
+216,Newcastle-Visakhapatnam,2024-08-19,13.73,Capesize
+217,Newcastle-Visakhapatnam,2024-08-26,14.71,Capesize
+218,Newcastle-Visakhapatnam,2024-09-02,14.53,Capesize
+219,Newcastle-Visakhapatnam,2024-09-09,14.23,Capesize
+220,Newcastle-Visakhapatnam,2024-09-16,14.7,Capesize
+221,Newcastle-Visakhapatnam,2024-09-23,15.43,Capesize
+222,Newcastle-Visakhapatnam,2024-09-30,14.9,Capesize
+223,Newcastle-Visakhapatnam,2024-10-07,13.87,Capesize
+224,Newcastle-Visakhapatnam,2024-10-14,12.91,Capesize
+225,Newcastle-Visakhapatnam,2024-10-21,12.47,Capesize
+226,Newcastle-Visakhapatnam,2024-10-28,13.47,Capesize
+227,Newcastle-Visakhapatnam,2024-11-04,14.5,Capesize
+228,Newcastle-Visakhapatnam,2024-11-11,13.6,Capesize
+229,Newcastle-Visakhapatnam,2024-11-18,14.1,Capesize
+230,Newcastle-Visakhapatnam,2024-11-25,14.17,Capesize
+231,Newcastle-Visakhapatnam,2024-12-02,13.47,Capesize
+232,Newcastle-Visakhapatnam,2024-12-09,13.53,Capesize
+233,Newcastle-Visakhapatnam,2024-12-16,12.97,Capesize
+234,Newcastle-Visakhapatnam,2024-12-23,13.25,Capesize
+235,Newcastle-Visakhapatnam,2024-12-30,12.53,Capesize
+236,Newcastle-Visakhapatnam,2025-01-06,13.09,Capesize
+237,Newcastle-Visakhapatnam,2025-01-13,12.9,Capesize
+238,Newcastle-Visakhapatnam,2025-01-20,12.02,Capesize
+239,Newcastle-Visakhapatnam,2025-01-27,12.33,Capesize
+240,Newcastle-Visakhapatnam,2025-02-03,12.01,Capesize
+241,Newcastle-Visakhapatnam,2025-02-10,11.92,Capesize
+242,Newcastle-Visakhapatnam,2025-02-17,12.29,Capesize
+243,Newcastle-Visakhapatnam,2025-02-24,13.14,Capesize
+244,Newcastle-Visakhapatnam,2025-03-03,12.4,Capesize
+245,Newcastle-Visakhapatnam,2025-03-10,11.68,Capesize
+246,Newcastle-Visakhapatnam,2025-03-17,11.46,Capesize
+247,Newcastle-Visakhapatnam,2025-03-24,11.1,Capesize
+248,Newcastle-Visakhapatnam,2025-03-31,10.33,Capesize
+249,Newcastle-Visakhapatnam,2025-04-07,11.45,Capesize
+250,Newcastle-Visakhapatnam,2025-04-14,11.32,Capesize
+251,Newcastle-Visakhapatnam,2025-04-21,10.99,Capesize
+252,Newcastle-Visakhapatnam,2025-04-28,10.58,Capesize
+253,Newcastle-Visakhapatnam,2025-05-05,11.68,Capesize
+254,Newcastle-Visakhapatnam,2025-05-12,11.28,Capesize
+255,Newcastle-Visakhapatnam,2025-05-19,11.0,Capesize
+256,Newcastle-Visakhapatnam,2025-05-26,11.59,Capesize
+257,Newcastle-Visakhapatnam,2025-06-02,11.43,Capesize
+258,Newcastle-Visakhapatnam,2025-06-09,11.94,Capesize
+259,Newcastle-Visakhapatnam,2025-06-16,12.18,Capesize
+260,Newcastle-Visakhapatnam,2025-06-23,12.32,Capesize
+261,Newcastle-Visakhapatnam,2025-06-30,11.68,Capesize
+262,Newcastle-Visakhapatnam,2025-07-07,12.28,Capesize
+263,Newcastle-Visakhapatnam,2025-07-14,13.23,Capesize
+264,Newcastle-Visakhapatnam,2025-07-21,12.68,Capesize
+265,Newcastle-Visakhapatnam,2025-07-28,13.72,Capesize
+266,Newcastle-Visakhapatnam,2025-08-04,13.6,Capesize
+267,Newcastle-Visakhapatnam,2025-08-11,13.37,Capesize
+268,Newcastle-Visakhapatnam,2025-08-18,13.87,Capesize
+269,Newcastle-Visakhapatnam,2025-08-25,14.96,Capesize
+270,Newcastle-Visakhapatnam,2025-09-01,15.17,Capesize
+271,Newcastle-Visakhapatnam,2025-09-08,15.21,Capesize
+272,Newcastle-Visakhapatnam,2025-09-15,16.32,Capesize
+273,Newcastle-Visakhapatnam,2025-09-22,15.87,Capesize
+274,Newcastle-Visakhapatnam,2025-09-29,15.42,Capesize
+275,Newcastle-Visakhapatnam,2025-10-06,14.8,Capesize
+276,Newcastle-Visakhapatnam,2025-10-13,15.6,Capesize
+277,Newcastle-Visakhapatnam,2025-10-20,14.53,Capesize
+278,Newcastle-Visakhapatnam,2025-10-27,15.25,Capesize
+279,Newcastle-Visakhapatnam,2025-11-03,15.67,Capesize
+280,Newcastle-Visakhapatnam,2025-11-10,15.17,Capesize
+281,Newcastle-Visakhapatnam,2025-11-17,15.29,Capesize
+282,Newcastle-Visakhapatnam,2025-11-24,15.42,Capesize
+283,Newcastle-Visakhapatnam,2025-12-01,16.37,Capesize
+284,Newcastle-Visakhapatnam,2025-12-08,15.6,Capesize
+285,Newcastle-Visakhapatnam,2025-12-15,14.56,Capesize
+286,Newcastle-Visakhapatnam,2025-12-22,14.24,Capesize
+287,Newcastle-Visakhapatnam,2025-12-29,13.43,Capesize
+288,Newcastle-Visakhapatnam,2026-01-05,13.13,Capesize
+289,Newcastle-Visakhapatnam,2026-01-12,13.32,Capesize
+290,Newcastle-Visakhapatnam,2026-01-19,12.72,Capesize
+291,Newcastle-Visakhapatnam,2026-01-26,13.41,Capesize
+292,Newcastle-Visakhapatnam,2026-02-02,12.5,Capesize
+293,Newcastle-Visakhapatnam,2026-02-09,12.28,Capesize
+294,Newcastle-Visakhapatnam,2026-02-16,13.21,Capesize
+295,Newcastle-Visakhapatnam,2026-02-23,13.74,Capesize
+296,Newcastle-Visakhapatnam,2026-03-02,14.24,Capesize
+297,Newcastle-Visakhapatnam,2026-03-09,14.89,Capesize
+298,Newcastle-Visakhapatnam,2026-03-16,14.16,Capesize
+299,Newcastle-Visakhapatnam,2026-03-23,14.89,Capesize
+300,Newcastle-Visakhapatnam,2026-03-30,15.31,Capesize
+301,Newcastle-Visakhapatnam,2026-04-06,15.49,Capesize
+302,Newcastle-Visakhapatnam,2026-04-13,16.4,Capesize
+303,Newcastle-Visakhapatnam,2026-04-20,16.61,Capesize
+304,Newcastle-Visakhapatnam,2026-04-27,16.16,Capesize
+305,Newcastle-Visakhapatnam,2026-05-04,16.68,Capesize
+306,Newcastle-Visakhapatnam,2026-05-11,16.85,Capesize
+307,Newcastle-Visakhapatnam,2026-05-18,15.91,Capesize
+308,Newcastle-Visakhapatnam,2026-05-25,14.91,Capesize
+309,Newcastle-Visakhapatnam,2026-06-01,15.52,Capesize
+310,Newcastle-Visakhapatnam,2026-06-08,15.18,Capesize
+311,Newcastle-Visakhapatnam,2026-06-15,15.89,Capesize
+312,Newcastle-Visakhapatnam,2026-06-22,15.7,Capesize
+313,Newcastle-Visakhapatnam,2026-06-29,16.53,Capesize
+314,Newcastle-Visakhapatnam,2026-07-06,17.36,Capesize
+315,Newcastle-Visakhapatnam,2026-07-13,16.74,Capesize
+316,New Orleans-Qingdao,2024-07-15,25.61,Panamax
+317,New Orleans-Qingdao,2024-07-22,26.02,Panamax
+318,New Orleans-Qingdao,2024-07-29,24.07,Panamax
+319,New Orleans-Qingdao,2024-08-05,25.18,Panamax
+320,New Orleans-Qingdao,2024-08-12,24.71,Panamax
+321,New Orleans-Qingdao,2024-08-19,23.92,Panamax
+322,New Orleans-Qingdao,2024-08-26,22.09,Panamax
+323,New Orleans-Qingdao,2024-09-02,22.25,Panamax
+324,New Orleans-Qingdao,2024-09-09,20.85,Panamax
+325,New Orleans-Qingdao,2024-09-16,20.86,Panamax
+326,New Orleans-Qingdao,2024-09-23,19.74,Panamax
+327,New Orleans-Qingdao,2024-09-30,17.94,Panamax
+328,New Orleans-Qingdao,2024-10-07,18.87,Panamax
+329,New Orleans-Qingdao,2024-10-14,18.44,Panamax
+330,New Orleans-Qingdao,2024-10-21,18.22,Panamax
+331,New Orleans-Qingdao,2024-10-28,18.6,Panamax
+332,New Orleans-Qingdao,2024-11-04,18.62,Panamax
+333,New Orleans-Qingdao,2024-11-11,17.51,Panamax
+334,New Orleans-Qingdao,2024-11-18,16.67,Panamax
+335,New Orleans-Qingdao,2024-11-25,16.25,Panamax
+336,New Orleans-Qingdao,2024-12-02,14.78,Panamax
+337,New Orleans-Qingdao,2024-12-09,13.11,Panamax
+338,New Orleans-Qingdao,2024-12-16,13.39,Panamax
+339,New Orleans-Qingdao,2024-12-23,12.6,Panamax
+340,New Orleans-Qingdao,2024-12-30,12.6,Panamax
+341,New Orleans-Qingdao,2025-01-06,12.6,Panamax
+342,New Orleans-Qingdao,2025-01-13,12.61,Panamax
+343,New Orleans-Qingdao,2025-01-20,13.7,Panamax
+344,New Orleans-Qingdao,2025-01-27,12.6,Panamax
+345,New Orleans-Qingdao,2025-02-03,12.6,Panamax
+346,New Orleans-Qingdao,2025-02-10,12.84,Panamax
+347,New Orleans-Qingdao,2025-02-17,12.79,Panamax
+348,New Orleans-Qingdao,2025-02-24,13.4,Panamax
+349,New Orleans-Qingdao,2025-03-03,12.6,Panamax
+350,New Orleans-Qingdao,2025-03-10,13.06,Panamax
+351,New Orleans-Qingdao,2025-03-17,14.01,Panamax
+352,New Orleans-Qingdao,2025-03-24,12.99,Panamax
+353,New Orleans-Qingdao,2025-03-31,12.6,Panamax
+354,New Orleans-Qingdao,2025-04-07,13.71,Panamax
+355,New Orleans-Qingdao,2025-04-14,13.0,Panamax
+356,New Orleans-Qingdao,2025-04-21,14.7,Panamax
+357,New Orleans-Qingdao,2025-04-28,13.06,Panamax
+358,New Orleans-Qingdao,2025-05-05,13.74,Panamax
+359,New Orleans-Qingdao,2025-05-12,13.44,Panamax
+360,New Orleans-Qingdao,2025-05-19,12.83,Panamax
+361,New Orleans-Qingdao,2025-05-26,12.6,Panamax
+362,New Orleans-Qingdao,2025-06-02,12.98,Panamax
+363,New Orleans-Qingdao,2025-06-09,12.6,Panamax
+364,New Orleans-Qingdao,2025-06-16,12.6,Panamax
+365,New Orleans-Qingdao,2025-06-23,14.55,Panamax
+366,New Orleans-Qingdao,2025-06-30,15.02,Panamax
+367,New Orleans-Qingdao,2025-07-07,16.98,Panamax
+368,New Orleans-Qingdao,2025-07-14,16.74,Panamax
+369,New Orleans-Qingdao,2025-07-21,15.33,Panamax
+370,New Orleans-Qingdao,2025-07-28,13.51,Panamax
+371,New Orleans-Qingdao,2025-08-04,14.78,Panamax
+372,New Orleans-Qingdao,2025-08-11,13.58,Panamax
+373,New Orleans-Qingdao,2025-08-18,13.07,Panamax
+374,New Orleans-Qingdao,2025-08-25,14.11,Panamax
+375,New Orleans-Qingdao,2025-09-01,15.52,Panamax
+376,New Orleans-Qingdao,2025-09-08,13.97,Panamax
+377,New Orleans-Qingdao,2025-09-15,12.6,Panamax
+378,New Orleans-Qingdao,2025-09-22,14.4,Panamax
+379,New Orleans-Qingdao,2025-09-29,16.1,Panamax
+380,New Orleans-Qingdao,2025-10-06,17.58,Panamax
+381,New Orleans-Qingdao,2025-10-13,18.86,Panamax
+382,New Orleans-Qingdao,2025-10-20,16.91,Panamax
+383,New Orleans-Qingdao,2025-10-27,17.69,Panamax
+384,New Orleans-Qingdao,2025-11-03,16.13,Panamax
+385,New Orleans-Qingdao,2025-11-10,15.93,Panamax
+386,New Orleans-Qingdao,2025-11-17,14.02,Panamax
+387,New Orleans-Qingdao,2025-11-24,12.86,Panamax
+388,New Orleans-Qingdao,2025-12-01,13.01,Panamax
+389,New Orleans-Qingdao,2025-12-08,12.6,Panamax
+390,New Orleans-Qingdao,2025-12-15,12.69,Panamax
+391,New Orleans-Qingdao,2025-12-22,12.6,Panamax
+392,New Orleans-Qingdao,2025-12-29,12.6,Panamax
+393,New Orleans-Qingdao,2026-01-05,13.52,Panamax
+394,New Orleans-Qingdao,2026-01-12,12.6,Panamax
+395,New Orleans-Qingdao,2026-01-19,13.4,Panamax
+396,New Orleans-Qingdao,2026-01-26,12.6,Panamax
+397,New Orleans-Qingdao,2026-02-02,12.93,Panamax
+398,New Orleans-Qingdao,2026-02-09,13.59,Panamax
+399,New Orleans-Qingdao,2026-02-16,12.6,Panamax
+400,New Orleans-Qingdao,2026-02-23,12.6,Panamax
+401,New Orleans-Qingdao,2026-03-02,12.6,Panamax
+402,New Orleans-Qingdao,2026-03-09,13.76,Panamax
+403,New Orleans-Qingdao,2026-03-16,14.23,Panamax
+404,New Orleans-Qingdao,2026-03-23,12.6,Panamax
+405,New Orleans-Qingdao,2026-03-30,13.22,Panamax
+406,New Orleans-Qingdao,2026-04-06,12.6,Panamax
+407,New Orleans-Qingdao,2026-04-13,12.6,Panamax
+408,New Orleans-Qingdao,2026-04-20,12.6,Panamax
+409,New Orleans-Qingdao,2026-04-27,14.01,Panamax
+410,New Orleans-Qingdao,2026-05-04,14.65,Panamax
+411,New Orleans-Qingdao,2026-05-11,16.11,Panamax
+412,New Orleans-Qingdao,2026-05-18,14.18,Panamax
+413,New Orleans-Qingdao,2026-05-25,15.65,Panamax
+414,New Orleans-Qingdao,2026-06-01,16.25,Panamax
+415,New Orleans-Qingdao,2026-06-08,15.17,Panamax
+416,New Orleans-Qingdao,2026-06-15,14.7,Panamax
+417,New Orleans-Qingdao,2026-06-22,16.6,Panamax
+418,New Orleans-Qingdao,2026-06-29,15.0,Panamax
+419,New Orleans-Qingdao,2026-07-06,14.26,Panamax
+420,New Orleans-Qingdao,2026-07-13,15.73,Panamax
+421,Santos-Qingdao,2024-07-15,22.11,Panamax
+422,Santos-Qingdao,2024-07-22,21.01,Panamax
+423,Santos-Qingdao,2024-07-29,21.01,Panamax
+424,Santos-Qingdao,2024-08-05,20.86,Panamax
+425,Santos-Qingdao,2024-08-12,22.36,Panamax
+426,Santos-Qingdao,2024-08-19,20.68,Panamax
+427,Santos-Qingdao,2024-08-26,19.79,Panamax
+428,Santos-Qingdao,2024-09-02,19.89,Panamax
+429,Santos-Qingdao,2024-09-09,19.31,Panamax
+430,Santos-Qingdao,2024-09-16,18.93,Panamax
+431,Santos-Qingdao,2024-09-23,17.72,Panamax
+432,Santos-Qingdao,2024-09-30,17.18,Panamax
+433,Santos-Qingdao,2024-10-07,16.66,Panamax
+434,Santos-Qingdao,2024-10-14,17.1,Panamax
+435,Santos-Qingdao,2024-10-21,16.18,Panamax
+436,Santos-Qingdao,2024-10-28,17.86,Panamax
+437,Santos-Qingdao,2024-11-04,17.86,Panamax
+438,Santos-Qingdao,2024-11-11,18.96,Panamax
+439,Santos-Qingdao,2024-11-18,19.4,Panamax
+440,Santos-Qingdao,2024-11-25,20.74,Panamax
+441,Santos-Qingdao,2024-12-02,22.11,Panamax
+442,Santos-Qingdao,2024-12-09,23.22,Panamax
+443,Santos-Qingdao,2024-12-16,21.56,Panamax
+444,Santos-Qingdao,2024-12-23,21.76,Panamax
+445,Santos-Qingdao,2024-12-30,20.98,Panamax
+446,Santos-Qingdao,2025-01-06,19.76,Panamax
+447,Santos-Qingdao,2025-01-13,21.16,Panamax
+448,Santos-Qingdao,2025-01-20,21.71,Panamax
+449,Santos-Qingdao,2025-01-27,20.26,Panamax
+450,Santos-Qingdao,2025-02-03,19.84,Panamax
+451,Santos-Qingdao,2025-02-10,21.46,Panamax
+452,Santos-Qingdao,2025-02-17,21.86,Panamax
+453,Santos-Qingdao,2025-02-24,22.3,Panamax
+454,Santos-Qingdao,2025-03-03,21.34,Panamax
+455,Santos-Qingdao,2025-03-10,20.43,Panamax
+456,Santos-Qingdao,2025-03-17,19.21,Panamax
+457,Santos-Qingdao,2025-03-24,20.86,Panamax
+458,Santos-Qingdao,2025-03-31,22.3,Panamax
+459,Santos-Qingdao,2025-04-07,21.7,Panamax
+460,Santos-Qingdao,2025-04-14,21.85,Panamax
+461,Santos-Qingdao,2025-04-21,20.82,Panamax
+462,Santos-Qingdao,2025-04-28,19.55,Panamax
+463,Santos-Qingdao,2025-05-05,19.69,Panamax
+464,Santos-Qingdao,2025-05-12,20.75,Panamax
+465,Santos-Qingdao,2025-05-19,22.03,Panamax
+466,Santos-Qingdao,2025-05-26,21.35,Panamax
+467,Santos-Qingdao,2025-06-02,22.08,Panamax
+468,Santos-Qingdao,2025-06-09,22.16,Panamax
+469,Santos-Qingdao,2025-06-16,20.87,Panamax
+470,Santos-Qingdao,2025-06-23,22.62,Panamax
+471,Santos-Qingdao,2025-06-30,24.29,Panamax
+472,Santos-Qingdao,2025-07-07,23.05,Panamax
+473,Santos-Qingdao,2025-07-14,24.57,Panamax
+474,Santos-Qingdao,2025-07-21,26.04,Panamax
+475,Santos-Qingdao,2025-07-28,25.4,Panamax
+476,Santos-Qingdao,2025-08-04,25.6,Panamax
+477,Santos-Qingdao,2025-08-11,27.18,Panamax
+478,Santos-Qingdao,2025-08-18,25.83,Panamax
+479,Santos-Qingdao,2025-08-25,25.19,Panamax
+480,Santos-Qingdao,2025-09-01,26.53,Panamax
+481,Santos-Qingdao,2025-09-08,27.33,Panamax
+482,Santos-Qingdao,2025-09-15,28.26,Panamax
+483,Santos-Qingdao,2025-09-22,29.6,Panamax
+484,Santos-Qingdao,2025-09-29,29.3,Panamax
+485,Santos-Qingdao,2025-10-06,28.98,Panamax
+486,Santos-Qingdao,2025-10-13,28.78,Panamax
+487,Santos-Qingdao,2025-10-20,30.31,Panamax
+488,Santos-Qingdao,2025-10-27,31.7,Panamax
+489,Santos-Qingdao,2025-11-03,33.22,Panamax
+490,Santos-Qingdao,2025-11-10,32.43,Panamax
+491,Santos-Qingdao,2025-11-17,33.41,Panamax
+492,Santos-Qingdao,2025-11-24,32.02,Panamax
+493,Santos-Qingdao,2025-12-01,30.92,Panamax
+494,Santos-Qingdao,2025-12-08,31.84,Panamax
+495,Santos-Qingdao,2025-12-15,32.23,Panamax
+496,Santos-Qingdao,2025-12-22,31.41,Panamax
+497,Santos-Qingdao,2025-12-29,31.65,Panamax
+498,Santos-Qingdao,2026-01-05,30.7,Panamax
+499,Santos-Qingdao,2026-01-12,29.76,Panamax
+500,Santos-Qingdao,2026-01-19,30.42,Panamax
+501,Santos-Qingdao,2026-01-26,29.92,Panamax
+502,Santos-Qingdao,2026-02-02,30.59,Panamax
+503,Santos-Qingdao,2026-02-09,30.5,Panamax
+504,Santos-Qingdao,2026-02-16,30.51,Panamax
+505,Santos-Qingdao,2026-02-23,30.88,Panamax
+506,Santos-Qingdao,2026-03-02,31.63,Panamax
+507,Santos-Qingdao,2026-03-09,31.18,Panamax
+508,Santos-Qingdao,2026-03-16,32.42,Panamax
+509,Santos-Qingdao,2026-03-23,32.39,Panamax
+510,Santos-Qingdao,2026-03-30,31.12,Panamax
+511,Santos-Qingdao,2026-04-06,30.04,Panamax
+512,Santos-Qingdao,2026-04-13,28.39,Panamax
+513,Santos-Qingdao,2026-04-20,29.32,Panamax
+514,Santos-Qingdao,2026-04-27,27.61,Panamax
+515,Santos-Qingdao,2026-05-04,26.8,Panamax
+516,Santos-Qingdao,2026-05-11,26.5,Panamax
+517,Santos-Qingdao,2026-05-18,27.35,Panamax
+518,Santos-Qingdao,2026-05-25,29.07,Panamax
+519,Santos-Qingdao,2026-06-01,29.98,Panamax
+520,Santos-Qingdao,2026-06-08,28.45,Panamax
+521,Santos-Qingdao,2026-06-15,29.95,Panamax
+522,Santos-Qingdao,2026-06-22,31.66,Panamax
+523,Santos-Qingdao,2026-06-29,32.95,Panamax
+524,Santos-Qingdao,2026-07-06,32.92,Panamax
+525,Santos-Qingdao,2026-07-13,32.3,Panamax
+526,Gladstone-Kandla,2024-07-15,18.87,Panamax
+527,Gladstone-Kandla,2024-07-22,18.1,Panamax
+528,Gladstone-Kandla,2024-07-29,17.81,Panamax
+529,Gladstone-Kandla,2024-08-05,16.42,Panamax
+530,Gladstone-Kandla,2024-08-12,17.13,Panamax
+531,Gladstone-Kandla,2024-08-19,16.77,Panamax
+532,Gladstone-Kandla,2024-08-26,16.2,Panamax
+533,Gladstone-Kandla,2024-09-02,16.54,Panamax
+534,Gladstone-Kandla,2024-09-09,17.28,Panamax
+535,Gladstone-Kandla,2024-09-16,17.56,Panamax
+536,Gladstone-Kandla,2024-09-23,17.64,Panamax
+537,Gladstone-Kandla,2024-09-30,18.78,Panamax
+538,Gladstone-Kandla,2024-10-07,19.65,Panamax
+539,Gladstone-Kandla,2024-10-14,19.72,Panamax
+540,Gladstone-Kandla,2024-10-21,19.57,Panamax
+541,Gladstone-Kandla,2024-10-28,20.56,Panamax
+542,Gladstone-Kandla,2024-11-04,19.17,Panamax
+543,Gladstone-Kandla,2024-11-11,20.68,Panamax
+544,Gladstone-Kandla,2024-11-18,20.74,Panamax
+545,Gladstone-Kandla,2024-11-25,20.42,Panamax
+546,Gladstone-Kandla,2024-12-02,21.14,Panamax
+547,Gladstone-Kandla,2024-12-09,21.31,Panamax
+548,Gladstone-Kandla,2024-12-16,21.36,Panamax
+549,Gladstone-Kandla,2024-12-23,21.76,Panamax
+550,Gladstone-Kandla,2024-12-30,20.39,Panamax
+551,Gladstone-Kandla,2025-01-06,19.75,Panamax
+552,Gladstone-Kandla,2025-01-13,19.44,Panamax
+553,Gladstone-Kandla,2025-01-20,18.85,Panamax
+554,Gladstone-Kandla,2025-01-27,19.84,Panamax
+555,Gladstone-Kandla,2025-02-03,19.73,Panamax
+556,Gladstone-Kandla,2025-02-10,19.49,Panamax
+557,Gladstone-Kandla,2025-02-17,19.83,Panamax
+558,Gladstone-Kandla,2025-02-24,18.48,Panamax
+559,Gladstone-Kandla,2025-03-03,18.53,Panamax
+560,Gladstone-Kandla,2025-03-10,17.44,Panamax
+561,Gladstone-Kandla,2025-03-17,18.45,Panamax
+562,Gladstone-Kandla,2025-03-24,18.3,Panamax
+563,Gladstone-Kandla,2025-03-31,18.98,Panamax
+564,Gladstone-Kandla,2025-04-07,17.8,Panamax
+565,Gladstone-Kandla,2025-04-14,18.65,Panamax
+566,Gladstone-Kandla,2025-04-21,19.98,Panamax
+567,Gladstone-Kandla,2025-04-28,20.58,Panamax
+568,Gladstone-Kandla,2025-05-05,19.47,Panamax
+569,Gladstone-Kandla,2025-05-12,19.2,Panamax
+570,Gladstone-Kandla,2025-05-19,19.05,Panamax
+571,Gladstone-Kandla,2025-05-26,18.08,Panamax
+572,Gladstone-Kandla,2025-06-02,18.35,Panamax
+573,Gladstone-Kandla,2025-06-09,19.0,Panamax
+574,Gladstone-Kandla,2025-06-16,18.09,Panamax
+575,Gladstone-Kandla,2025-06-23,17.96,Panamax
+576,Gladstone-Kandla,2025-06-30,17.2,Panamax
+577,Gladstone-Kandla,2025-07-07,17.78,Panamax
+578,Gladstone-Kandla,2025-07-14,19.02,Panamax
+579,Gladstone-Kandla,2025-07-21,19.92,Panamax
+580,Gladstone-Kandla,2025-07-28,20.58,Panamax
+581,Gladstone-Kandla,2025-08-04,19.44,Panamax
+582,Gladstone-Kandla,2025-08-11,18.26,Panamax
+583,Gladstone-Kandla,2025-08-18,18.11,Panamax
+584,Gladstone-Kandla,2025-08-25,17.69,Panamax
+585,Gladstone-Kandla,2025-09-01,17.77,Panamax
+586,Gladstone-Kandla,2025-09-08,17.41,Panamax
+587,Gladstone-Kandla,2025-09-15,18.3,Panamax
+588,Gladstone-Kandla,2025-09-22,18.33,Panamax
+589,Gladstone-Kandla,2025-09-29,19.7,Panamax
+590,Gladstone-Kandla,2025-10-06,19.33,Panamax
+591,Gladstone-Kandla,2025-10-13,18.97,Panamax
+592,Gladstone-Kandla,2025-10-20,19.79,Panamax
+593,Gladstone-Kandla,2025-10-27,21.04,Panamax
+594,Gladstone-Kandla,2025-11-03,21.24,Panamax
+595,Gladstone-Kandla,2025-11-10,21.72,Panamax
+596,Gladstone-Kandla,2025-11-17,20.66,Panamax
+597,Gladstone-Kandla,2025-11-24,21.78,Panamax
+598,Gladstone-Kandla,2025-12-01,20.8,Panamax
+599,Gladstone-Kandla,2025-12-08,21.45,Panamax
+600,Gladstone-Kandla,2025-12-15,21.2,Panamax
+601,Gladstone-Kandla,2025-12-22,20.62,Panamax
+602,Gladstone-Kandla,2025-12-29,21.44,Panamax
+603,Gladstone-Kandla,2026-01-05,21.28,Panamax
+604,Gladstone-Kandla,2026-01-12,21.66,Panamax
+605,Gladstone-Kandla,2026-01-19,20.5,Panamax
+606,Gladstone-Kandla,2026-01-26,19.38,Panamax
+607,Gladstone-Kandla,2026-02-02,18.48,Panamax
+608,Gladstone-Kandla,2026-02-09,18.85,Panamax
+609,Gladstone-Kandla,2026-02-16,18.1,Panamax
+610,Gladstone-Kandla,2026-02-23,17.97,Panamax
+611,Gladstone-Kandla,2026-03-02,19.05,Panamax
+612,Gladstone-Kandla,2026-03-09,19.19,Panamax
+613,Gladstone-Kandla,2026-03-16,17.68,Panamax
+614,Gladstone-Kandla,2026-03-23,18.85,Panamax
+615,Gladstone-Kandla,2026-03-30,18.05,Panamax
+616,Gladstone-Kandla,2026-04-06,18.32,Panamax
+617,Gladstone-Kandla,2026-04-13,18.25,Panamax
+618,Gladstone-Kandla,2026-04-20,17.97,Panamax
+619,Gladstone-Kandla,2026-04-27,16.69,Panamax
+620,Gladstone-Kandla,2026-05-04,17.0,Panamax
+621,Gladstone-Kandla,2026-05-11,16.22,Panamax
+622,Gladstone-Kandla,2026-05-18,16.37,Panamax
+623,Gladstone-Kandla,2026-05-25,16.73,Panamax
+624,Gladstone-Kandla,2026-06-01,16.91,Panamax
+625,Gladstone-Kandla,2026-06-08,17.89,Panamax
+626,Gladstone-Kandla,2026-06-15,16.52,Panamax
+627,Gladstone-Kandla,2026-06-22,15.45,Panamax
+628,Gladstone-Kandla,2026-06-29,15.92,Panamax
+629,Gladstone-Kandla,2026-07-06,14.51,Panamax
+630,Gladstone-Kandla,2026-07-13,15.59,Panamax
+631,Paranagua-Rotterdam,2024-07-15,27.72,Supramax
+632,Paranagua-Rotterdam,2024-07-22,29.18,Supramax
+633,Paranagua-Rotterdam,2024-07-29,28.31,Supramax
+634,Paranagua-Rotterdam,2024-08-05,30.13,Supramax
+635,Paranagua-Rotterdam,2024-08-12,28.18,Supramax
+636,Paranagua-Rotterdam,2024-08-19,27.82,Supramax
+637,Paranagua-Rotterdam,2024-08-26,26.43,Supramax
+638,Paranagua-Rotterdam,2024-09-02,27.17,Supramax
+639,Paranagua-Rotterdam,2024-09-09,27.65,Supramax
+640,Paranagua-Rotterdam,2024-09-16,28.48,Supramax
+641,Paranagua-Rotterdam,2024-09-23,28.89,Supramax
+642,Paranagua-Rotterdam,2024-09-30,30.13,Supramax
+643,Paranagua-Rotterdam,2024-10-07,28.74,Supramax
+644,Paranagua-Rotterdam,2024-10-14,28.55,Supramax
+645,Paranagua-Rotterdam,2024-10-21,28.89,Supramax
+646,Paranagua-Rotterdam,2024-10-28,30.75,Supramax
+647,Paranagua-Rotterdam,2024-11-04,28.99,Supramax
+648,Paranagua-Rotterdam,2024-11-11,28.13,Supramax
+649,Paranagua-Rotterdam,2024-11-18,27.56,Supramax
+650,Paranagua-Rotterdam,2024-11-25,27.04,Supramax
+651,Paranagua-Rotterdam,2024-12-02,25.17,Supramax
+652,Paranagua-Rotterdam,2024-12-09,24.85,Supramax
+653,Paranagua-Rotterdam,2024-12-16,25.07,Supramax
+654,Paranagua-Rotterdam,2024-12-23,24.18,Supramax
+655,Paranagua-Rotterdam,2024-12-30,22.6,Supramax
+656,Paranagua-Rotterdam,2025-01-06,23.44,Supramax
+657,Paranagua-Rotterdam,2025-01-13,22.46,Supramax
+658,Paranagua-Rotterdam,2025-01-20,22.58,Supramax
+659,Paranagua-Rotterdam,2025-01-27,22.69,Supramax
+660,Paranagua-Rotterdam,2025-02-03,23.53,Supramax
+661,Paranagua-Rotterdam,2025-02-10,24.02,Supramax
+662,Paranagua-Rotterdam,2025-02-17,22.33,Supramax
+663,Paranagua-Rotterdam,2025-02-24,23.32,Supramax
+664,Paranagua-Rotterdam,2025-03-03,23.88,Supramax
+665,Paranagua-Rotterdam,2025-03-10,25.98,Supramax
+666,Paranagua-Rotterdam,2025-03-17,25.91,Supramax
+667,Paranagua-Rotterdam,2025-03-24,26.73,Supramax
+668,Paranagua-Rotterdam,2025-03-31,28.6,Supramax
+669,Paranagua-Rotterdam,2025-04-07,30.7,Supramax
+670,Paranagua-Rotterdam,2025-04-14,29.78,Supramax
+671,Paranagua-Rotterdam,2025-04-21,30.25,Supramax
+672,Paranagua-Rotterdam,2025-04-28,29.46,Supramax
+673,Paranagua-Rotterdam,2025-05-05,29.57,Supramax
+674,Paranagua-Rotterdam,2025-05-12,31.71,Supramax
+675,Paranagua-Rotterdam,2025-05-19,31.08,Supramax
+676,Paranagua-Rotterdam,2025-05-26,29.48,Supramax
+677,Paranagua-Rotterdam,2025-06-02,29.75,Supramax
+678,Paranagua-Rotterdam,2025-06-09,29.83,Supramax
+679,Paranagua-Rotterdam,2025-06-16,30.4,Supramax
+680,Paranagua-Rotterdam,2025-06-23,30.37,Supramax
+681,Paranagua-Rotterdam,2025-06-30,28.99,Supramax
+682,Paranagua-Rotterdam,2025-07-07,29.46,Supramax
+683,Paranagua-Rotterdam,2025-07-14,30.36,Supramax
+684,Paranagua-Rotterdam,2025-07-21,32.43,Supramax
+685,Paranagua-Rotterdam,2025-07-28,30.28,Supramax
+686,Paranagua-Rotterdam,2025-08-04,28.22,Supramax
+687,Paranagua-Rotterdam,2025-08-11,28.77,Supramax
+688,Paranagua-Rotterdam,2025-08-18,27.12,Supramax
+689,Paranagua-Rotterdam,2025-08-25,28.62,Supramax
+690,Paranagua-Rotterdam,2025-09-01,29.91,Supramax
+691,Paranagua-Rotterdam,2025-09-08,32.07,Supramax
+692,Paranagua-Rotterdam,2025-09-15,31.7,Supramax
+693,Paranagua-Rotterdam,2025-09-22,30.98,Supramax
+694,Paranagua-Rotterdam,2025-09-29,31.24,Supramax
+695,Paranagua-Rotterdam,2025-10-06,31.83,Supramax
+696,Paranagua-Rotterdam,2025-10-13,29.72,Supramax
+697,Paranagua-Rotterdam,2025-10-20,28.43,Supramax
+698,Paranagua-Rotterdam,2025-10-27,27.49,Supramax
+699,Paranagua-Rotterdam,2025-11-03,28.74,Supramax
+700,Paranagua-Rotterdam,2025-11-10,27.91,Supramax
+701,Paranagua-Rotterdam,2025-11-17,27.94,Supramax
+702,Paranagua-Rotterdam,2025-11-24,27.18,Supramax
+703,Paranagua-Rotterdam,2025-12-01,25.05,Supramax
+704,Paranagua-Rotterdam,2025-12-08,25.85,Supramax
+705,Paranagua-Rotterdam,2025-12-15,25.16,Supramax
+706,Paranagua-Rotterdam,2025-12-22,26.13,Supramax
+707,Paranagua-Rotterdam,2025-12-29,26.63,Supramax
+708,Paranagua-Rotterdam,2026-01-05,24.6,Supramax
+709,Paranagua-Rotterdam,2026-01-12,23.2,Supramax
+710,Paranagua-Rotterdam,2026-01-19,22.47,Supramax
+711,Paranagua-Rotterdam,2026-01-26,21.77,Supramax
+712,Paranagua-Rotterdam,2026-02-02,22.51,Supramax
+713,Paranagua-Rotterdam,2026-02-09,24.31,Supramax
+714,Paranagua-Rotterdam,2026-02-16,25.59,Supramax
+715,Paranagua-Rotterdam,2026-02-23,26.22,Supramax
+716,Paranagua-Rotterdam,2026-03-02,26.14,Supramax
+717,Paranagua-Rotterdam,2026-03-09,26.69,Supramax
+718,Paranagua-Rotterdam,2026-03-16,28.39,Supramax
+719,Paranagua-Rotterdam,2026-03-23,28.55,Supramax
+720,Paranagua-Rotterdam,2026-03-30,27.83,Supramax
+721,Paranagua-Rotterdam,2026-04-06,29.06,Supramax
+722,Paranagua-Rotterdam,2026-04-13,28.69,Supramax
+723,Paranagua-Rotterdam,2026-04-20,29.74,Supramax
+724,Paranagua-Rotterdam,2026-04-27,31.18,Supramax
+725,Paranagua-Rotterdam,2026-05-04,30.32,Supramax
+726,Paranagua-Rotterdam,2026-05-11,31.29,Supramax
+727,Paranagua-Rotterdam,2026-05-18,30.49,Supramax
+728,Paranagua-Rotterdam,2026-05-25,30.65,Supramax
+729,Paranagua-Rotterdam,2026-06-01,29.39,Supramax
+730,Paranagua-Rotterdam,2026-06-08,30.19,Supramax
+731,Paranagua-Rotterdam,2026-06-15,31.48,Supramax
+732,Paranagua-Rotterdam,2026-06-22,33.16,Supramax
+733,Paranagua-Rotterdam,2026-06-29,32.53,Supramax
+734,Paranagua-Rotterdam,2026-07-06,34.56,Supramax
+735,Paranagua-Rotterdam,2026-07-13,33.61,Supramax
+736,Vancouver-Shanghai,2024-07-15,22.2,Supramax
+737,Vancouver-Shanghai,2024-07-22,24.06,Supramax
+738,Vancouver-Shanghai,2024-07-29,24.54,Supramax
+739,Vancouver-Shanghai,2024-08-05,25.86,Supramax
+740,Vancouver-Shanghai,2024-08-12,26.13,Supramax
+741,Vancouver-Shanghai,2024-08-19,25.71,Supramax
+742,Vancouver-Shanghai,2024-08-26,26.07,Supramax
+743,Vancouver-Shanghai,2024-09-02,27.47,Supramax
+744,Vancouver-Shanghai,2024-09-09,28.44,Supramax
+745,Vancouver-Shanghai,2024-09-16,29.23,Supramax
+746,Vancouver-Shanghai,2024-09-23,28.51,Supramax
+747,Vancouver-Shanghai,2024-09-30,26.71,Supramax
+748,Vancouver-Shanghai,2024-10-07,26.38,Supramax
+749,Vancouver-Shanghai,2024-10-14,26.37,Supramax
+750,Vancouver-Shanghai,2024-10-21,25.37,Supramax
+751,Vancouver-Shanghai,2024-10-28,25.18,Supramax
+752,Vancouver-Shanghai,2024-11-04,26.91,Supramax
+753,Vancouver-Shanghai,2024-11-11,25.82,Supramax
+754,Vancouver-Shanghai,2024-11-18,25.06,Supramax
+755,Vancouver-Shanghai,2024-11-25,23.57,Supramax
+756,Vancouver-Shanghai,2024-12-02,24.67,Supramax
+757,Vancouver-Shanghai,2024-12-09,25.73,Supramax
+758,Vancouver-Shanghai,2024-12-16,27.32,Supramax
+759,Vancouver-Shanghai,2024-12-23,27.11,Supramax
+760,Vancouver-Shanghai,2024-12-30,25.28,Supramax
+761,Vancouver-Shanghai,2025-01-06,25.21,Supramax
+762,Vancouver-Shanghai,2025-01-13,25.21,Supramax
+763,Vancouver-Shanghai,2025-01-20,24.03,Supramax
+764,Vancouver-Shanghai,2025-01-27,25.65,Supramax
+765,Vancouver-Shanghai,2025-02-03,26.54,Supramax
+766,Vancouver-Shanghai,2025-02-10,26.64,Supramax
+767,Vancouver-Shanghai,2025-02-17,27.69,Supramax
+768,Vancouver-Shanghai,2025-02-24,26.32,Supramax
+769,Vancouver-Shanghai,2025-03-03,27.75,Supramax
+770,Vancouver-Shanghai,2025-03-10,28.99,Supramax
+771,Vancouver-Shanghai,2025-03-17,30.67,Supramax
+772,Vancouver-Shanghai,2025-03-24,31.35,Supramax
+773,Vancouver-Shanghai,2025-03-31,29.94,Supramax
+774,Vancouver-Shanghai,2025-04-07,30.8,Supramax
+775,Vancouver-Shanghai,2025-04-14,30.64,Supramax
+776,Vancouver-Shanghai,2025-04-21,31.47,Supramax
+777,Vancouver-Shanghai,2025-04-28,31.55,Supramax
+778,Vancouver-Shanghai,2025-05-05,29.65,Supramax
+779,Vancouver-Shanghai,2025-05-12,31.31,Supramax
+780,Vancouver-Shanghai,2025-05-19,32.03,Supramax
+781,Vancouver-Shanghai,2025-05-26,32.39,Supramax
+782,Vancouver-Shanghai,2025-06-02,30.8,Supramax
+783,Vancouver-Shanghai,2025-06-09,30.67,Supramax
+784,Vancouver-Shanghai,2025-06-16,28.93,Supramax
+785,Vancouver-Shanghai,2025-06-23,29.01,Supramax
+786,Vancouver-Shanghai,2025-06-30,29.62,Supramax
+787,Vancouver-Shanghai,2025-07-07,28.9,Supramax
+788,Vancouver-Shanghai,2025-07-14,29.2,Supramax
+789,Vancouver-Shanghai,2025-07-21,28.48,Supramax
+790,Vancouver-Shanghai,2025-07-28,29.98,Supramax
+791,Vancouver-Shanghai,2025-08-04,29.3,Supramax
+792,Vancouver-Shanghai,2025-08-11,28.12,Supramax
+793,Vancouver-Shanghai,2025-08-18,27.26,Supramax
+794,Vancouver-Shanghai,2025-08-25,26.56,Supramax
+795,Vancouver-Shanghai,2025-09-01,26.34,Supramax
+796,Vancouver-Shanghai,2025-09-08,24.87,Supramax
+797,Vancouver-Shanghai,2025-09-15,23.52,Supramax
+798,Vancouver-Shanghai,2025-09-22,22.65,Supramax
+799,Vancouver-Shanghai,2025-09-29,20.79,Supramax
+800,Vancouver-Shanghai,2025-10-06,21.26,Supramax
+801,Vancouver-Shanghai,2025-10-13,21.32,Supramax
+802,Vancouver-Shanghai,2025-10-20,20.19,Supramax
+803,Vancouver-Shanghai,2025-10-27,19.62,Supramax
+804,Vancouver-Shanghai,2025-11-03,18.92,Supramax
+805,Vancouver-Shanghai,2025-11-10,17.54,Supramax
+806,Vancouver-Shanghai,2025-11-17,18.33,Supramax
+807,Vancouver-Shanghai,2025-11-24,17.5,Supramax
+808,Vancouver-Shanghai,2025-12-01,16.52,Supramax
+809,Vancouver-Shanghai,2025-12-08,14.87,Supramax
+810,Vancouver-Shanghai,2025-12-15,15.3,Supramax
+811,Vancouver-Shanghai,2025-12-22,14.68,Supramax
+812,Vancouver-Shanghai,2025-12-29,14.47,Supramax
+813,Vancouver-Shanghai,2026-01-05,13.05,Supramax
+814,Vancouver-Shanghai,2026-01-12,12.94,Supramax
+815,Vancouver-Shanghai,2026-01-19,13.61,Supramax
+816,Vancouver-Shanghai,2026-01-26,12.6,Supramax
+817,Vancouver-Shanghai,2026-02-02,12.6,Supramax
+818,Vancouver-Shanghai,2026-02-09,12.6,Supramax
+819,Vancouver-Shanghai,2026-02-16,12.6,Supramax
+820,Vancouver-Shanghai,2026-02-23,12.97,Supramax
+821,Vancouver-Shanghai,2026-03-02,13.33,Supramax
+822,Vancouver-Shanghai,2026-03-09,14.62,Supramax
+823,Vancouver-Shanghai,2026-03-16,15.38,Supramax
+824,Vancouver-Shanghai,2026-03-23,15.83,Supramax
+825,Vancouver-Shanghai,2026-03-30,15.11,Supramax
+826,Vancouver-Shanghai,2026-04-06,16.33,Supramax
+827,Vancouver-Shanghai,2026-04-13,17.14,Supramax
+828,Vancouver-Shanghai,2026-04-20,17.8,Supramax
+829,Vancouver-Shanghai,2026-04-27,17.93,Supramax
+830,Vancouver-Shanghai,2026-05-04,19.75,Supramax
+831,Vancouver-Shanghai,2026-05-11,20.73,Supramax
+832,Vancouver-Shanghai,2026-05-18,20.6,Supramax
+833,Vancouver-Shanghai,2026-05-25,19.18,Supramax
+834,Vancouver-Shanghai,2026-06-01,20.39,Supramax
+835,Vancouver-Shanghai,2026-06-08,22.0,Supramax
+836,Vancouver-Shanghai,2026-06-15,21.88,Supramax
+837,Vancouver-Shanghai,2026-06-22,21.71,Supramax
+838,Vancouver-Shanghai,2026-06-29,22.41,Supramax
+839,Vancouver-Shanghai,2026-07-06,23.22,Supramax
+840,Vancouver-Shanghai,2026-07-13,23.09,Supramax
+841,Richards Bay-Chennai,2024-07-15,20.1,Supramax
+842,Richards Bay-Chennai,2024-07-22,19.17,Supramax
+843,Richards Bay-Chennai,2024-07-29,20.38,Supramax
+844,Richards Bay-Chennai,2024-08-05,20.78,Supramax
+845,Richards Bay-Chennai,2024-08-12,22.16,Supramax
+846,Richards Bay-Chennai,2024-08-19,21.8,Supramax
+847,Richards Bay-Chennai,2024-08-26,22.47,Supramax
+848,Richards Bay-Chennai,2024-09-02,23.03,Supramax
+849,Richards Bay-Chennai,2024-09-09,24.0,Supramax
+850,Richards Bay-Chennai,2024-09-16,25.28,Supramax
+851,Richards Bay-Chennai,2024-09-23,25.13,Supramax
+852,Richards Bay-Chennai,2024-09-30,23.55,Supramax
+853,Richards Bay-Chennai,2024-10-07,23.46,Supramax
+854,Richards Bay-Chennai,2024-10-14,22.96,Supramax
+855,Richards Bay-Chennai,2024-10-21,22.83,Supramax
+856,Richards Bay-Chennai,2024-10-28,21.73,Supramax
+857,Richards Bay-Chennai,2024-11-04,22.63,Supramax
+858,Richards Bay-Chennai,2024-11-11,22.98,Supramax
+859,Richards Bay-Chennai,2024-11-18,21.73,Supramax
+860,Richards Bay-Chennai,2024-11-25,20.39,Supramax
+861,Richards Bay-Chennai,2024-12-02,21.46,Supramax
+862,Richards Bay-Chennai,2024-12-09,22.46,Supramax
+863,Richards Bay-Chennai,2024-12-16,21.87,Supramax
+864,Richards Bay-Chennai,2024-12-23,22.37,Supramax
+865,Richards Bay-Chennai,2024-12-30,23.36,Supramax
+866,Richards Bay-Chennai,2025-01-06,23.47,Supramax
+867,Richards Bay-Chennai,2025-01-13,23.13,Supramax
+868,Richards Bay-Chennai,2025-01-20,22.84,Supramax
+869,Richards Bay-Chennai,2025-01-27,23.25,Supramax
+870,Richards Bay-Chennai,2025-02-03,23.41,Supramax
+871,Richards Bay-Chennai,2025-02-10,25.0,Supramax
+872,Richards Bay-Chennai,2025-02-17,24.61,Supramax
+873,Richards Bay-Chennai,2025-02-24,24.08,Supramax
+874,Richards Bay-Chennai,2025-03-03,25.13,Supramax
+875,Richards Bay-Chennai,2025-03-10,25.44,Supramax
+876,Richards Bay-Chennai,2025-03-17,26.39,Supramax
+877,Richards Bay-Chennai,2025-03-24,26.18,Supramax
+878,Richards Bay-Chennai,2025-03-31,27.14,Supramax
+879,Richards Bay-Chennai,2025-04-07,27.29,Supramax
+880,Richards Bay-Chennai,2025-04-14,26.4,Supramax
+881,Richards Bay-Chennai,2025-04-21,26.95,Supramax
+882,Richards Bay-Chennai,2025-04-28,25.53,Supramax
+883,Richards Bay-Chennai,2025-05-05,26.98,Supramax
+884,Richards Bay-Chennai,2025-05-12,27.23,Supramax
+885,Richards Bay-Chennai,2025-05-19,27.18,Supramax
+886,Richards Bay-Chennai,2025-05-26,27.49,Supramax
+887,Richards Bay-Chennai,2025-06-02,27.37,Supramax
+888,Richards Bay-Chennai,2025-06-09,27.55,Supramax
+889,Richards Bay-Chennai,2025-06-16,28.64,Supramax
+890,Richards Bay-Chennai,2025-06-23,27.55,Supramax
+891,Richards Bay-Chennai,2025-06-30,29.08,Supramax
+892,Richards Bay-Chennai,2025-07-07,27.63,Supramax
+893,Richards Bay-Chennai,2025-07-14,26.32,Supramax
+894,Richards Bay-Chennai,2025-07-21,27.37,Supramax
+895,Richards Bay-Chennai,2025-07-28,28.29,Supramax
+896,Richards Bay-Chennai,2025-08-04,27.88,Supramax
+897,Richards Bay-Chennai,2025-08-11,27.86,Supramax
+898,Richards Bay-Chennai,2025-08-18,28.4,Supramax
+899,Richards Bay-Chennai,2025-08-25,27.02,Supramax
+900,Richards Bay-Chennai,2025-09-01,28.09,Supramax
+901,Richards Bay-Chennai,2025-09-08,29.39,Supramax
+902,Richards Bay-Chennai,2025-09-15,30.74,Supramax
+903,Richards Bay-Chennai,2025-09-22,31.2,Supramax
+904,Richards Bay-Chennai,2025-09-29,29.52,Supramax
+905,Richards Bay-Chennai,2025-10-06,28.34,Supramax
+906,Richards Bay-Chennai,2025-10-13,27.16,Supramax
+907,Richards Bay-Chennai,2025-10-20,27.26,Supramax
+908,Richards Bay-Chennai,2025-10-27,26.89,Supramax
+909,Richards Bay-Chennai,2025-11-03,27.15,Supramax
+910,Richards Bay-Chennai,2025-11-10,26.13,Supramax
+911,Richards Bay-Chennai,2025-11-17,26.74,Supramax
+912,Richards Bay-Chennai,2025-11-24,26.12,Supramax
+913,Richards Bay-Chennai,2025-12-01,26.36,Supramax
+914,Richards Bay-Chennai,2025-12-08,27.75,Supramax
+915,Richards Bay-Chennai,2025-12-15,27.09,Supramax
+916,Richards Bay-Chennai,2025-12-22,28.58,Supramax
+917,Richards Bay-Chennai,2025-12-29,28.36,Supramax
+918,Richards Bay-Chennai,2026-01-05,29.98,Supramax
+919,Richards Bay-Chennai,2026-01-12,29.46,Supramax
+920,Richards Bay-Chennai,2026-01-19,28.08,Supramax
+921,Richards Bay-Chennai,2026-01-26,26.43,Supramax
+922,Richards Bay-Chennai,2026-02-02,28.06,Supramax
+923,Richards Bay-Chennai,2026-02-09,27.74,Supramax
+924,Richards Bay-Chennai,2026-02-16,26.49,Supramax
+925,Richards Bay-Chennai,2026-02-23,25.8,Supramax
+926,Richards Bay-Chennai,2026-03-02,25.36,Supramax
+927,Richards Bay-Chennai,2026-03-09,25.52,Supramax
+928,Richards Bay-Chennai,2026-03-16,24.02,Supramax
+929,Richards Bay-Chennai,2026-03-23,24.7,Supramax
+930,Richards Bay-Chennai,2026-03-30,25.78,Supramax
+931,Richards Bay-Chennai,2026-04-06,25.31,Supramax
+932,Richards Bay-Chennai,2026-04-13,26.52,Supramax
+933,Richards Bay-Chennai,2026-04-20,27.75,Supramax
+934,Richards Bay-Chennai,2026-04-27,26.86,Supramax
+935,Richards Bay-Chennai,2026-05-04,27.54,Supramax
+936,Richards Bay-Chennai,2026-05-11,27.19,Supramax
+937,Richards Bay-Chennai,2026-05-18,26.58,Supramax
+938,Richards Bay-Chennai,2026-05-25,26.18,Supramax
+939,Richards Bay-Chennai,2026-06-01,25.78,Supramax
+940,Richards Bay-Chennai,2026-06-08,25.94,Supramax
+941,Richards Bay-Chennai,2026-06-15,26.48,Supramax
+942,Richards Bay-Chennai,2026-06-22,26.4,Supramax
+943,Richards Bay-Chennai,2026-06-29,25.35,Supramax
+944,Richards Bay-Chennai,2026-07-06,24.96,Supramax
+945,Richards Bay-Chennai,2026-07-13,26.39,Supramax
+946,Rotterdam-Casablanca,2024-07-15,30.58,Handysize
+947,Rotterdam-Casablanca,2024-07-22,28.97,Handysize
+948,Rotterdam-Casablanca,2024-07-29,31.28,Handysize
+949,Rotterdam-Casablanca,2024-08-05,32.07,Handysize
+950,Rotterdam-Casablanca,2024-08-12,30.37,Handysize
+951,Rotterdam-Casablanca,2024-08-19,28.39,Handysize
+952,Rotterdam-Casablanca,2024-08-26,26.14,Handysize
+953,Rotterdam-Casablanca,2024-09-02,27.17,Handysize
+954,Rotterdam-Casablanca,2024-09-09,27.1,Handysize
+955,Rotterdam-Casablanca,2024-09-16,26.81,Handysize
+956,Rotterdam-Casablanca,2024-09-23,29.09,Handysize
+957,Rotterdam-Casablanca,2024-09-30,27.16,Handysize
+958,Rotterdam-Casablanca,2024-10-07,27.82,Handysize
+959,Rotterdam-Casablanca,2024-10-14,27.43,Handysize
+960,Rotterdam-Casablanca,2024-10-21,27.22,Handysize
+961,Rotterdam-Casablanca,2024-10-28,28.56,Handysize
+962,Rotterdam-Casablanca,2024-11-04,29.05,Handysize
+963,Rotterdam-Casablanca,2024-11-11,28.7,Handysize
+964,Rotterdam-Casablanca,2024-11-18,27.22,Handysize
+965,Rotterdam-Casablanca,2024-11-25,27.26,Handysize
+966,Rotterdam-Casablanca,2024-12-02,27.5,Handysize
+967,Rotterdam-Casablanca,2024-12-09,27.27,Handysize
+968,Rotterdam-Casablanca,2024-12-16,26.6,Handysize
+969,Rotterdam-Casablanca,2024-12-23,25.14,Handysize
+970,Rotterdam-Casablanca,2024-12-30,25.63,Handysize
+971,Rotterdam-Casablanca,2025-01-06,25.99,Handysize
+972,Rotterdam-Casablanca,2025-01-13,27.6,Handysize
+973,Rotterdam-Casablanca,2025-01-20,26.38,Handysize
+974,Rotterdam-Casablanca,2025-01-27,26.39,Handysize
+975,Rotterdam-Casablanca,2025-02-03,25.97,Handysize
+976,Rotterdam-Casablanca,2025-02-10,26.19,Handysize
+977,Rotterdam-Casablanca,2025-02-17,25.57,Handysize
+978,Rotterdam-Casablanca,2025-02-24,27.79,Handysize
+979,Rotterdam-Casablanca,2025-03-03,28.1,Handysize
+980,Rotterdam-Casablanca,2025-03-10,29.05,Handysize
+981,Rotterdam-Casablanca,2025-03-17,27.26,Handysize
+982,Rotterdam-Casablanca,2025-03-24,27.17,Handysize
+983,Rotterdam-Casablanca,2025-03-31,28.06,Handysize
+984,Rotterdam-Casablanca,2025-04-07,26.4,Handysize
+985,Rotterdam-Casablanca,2025-04-14,27.47,Handysize
+986,Rotterdam-Casablanca,2025-04-21,29.71,Handysize
+987,Rotterdam-Casablanca,2025-04-28,31.96,Handysize
+988,Rotterdam-Casablanca,2025-05-05,33.25,Handysize
+989,Rotterdam-Casablanca,2025-05-12,33.09,Handysize
+990,Rotterdam-Casablanca,2025-05-19,31.13,Handysize
+991,Rotterdam-Casablanca,2025-05-26,32.94,Handysize
+992,Rotterdam-Casablanca,2025-06-02,31.03,Handysize
+993,Rotterdam-Casablanca,2025-06-09,30.9,Handysize
+994,Rotterdam-Casablanca,2025-06-16,32.03,Handysize
+995,Rotterdam-Casablanca,2025-06-23,34.16,Handysize
+996,Rotterdam-Casablanca,2025-06-30,32.2,Handysize
+997,Rotterdam-Casablanca,2025-07-07,32.82,Handysize
+998,Rotterdam-Casablanca,2025-07-14,34.21,Handysize
+999,Rotterdam-Casablanca,2025-07-21,33.34,Handysize
+1000,Rotterdam-Casablanca,2025-07-28,31.26,Handysize
+1001,Rotterdam-Casablanca,2025-08-04,30.54,Handysize
+1002,Rotterdam-Casablanca,2025-08-11,31.83,Handysize
+1003,Rotterdam-Casablanca,2025-08-18,31.68,Handysize
+1004,Rotterdam-Casablanca,2025-08-25,31.74,Handysize
+1005,Rotterdam-Casablanca,2025-09-01,31.6,Handysize
+1006,Rotterdam-Casablanca,2025-09-08,32.69,Handysize
+1007,Rotterdam-Casablanca,2025-09-15,32.32,Handysize
+1008,Rotterdam-Casablanca,2025-09-22,34.46,Handysize
+1009,Rotterdam-Casablanca,2025-09-29,35.84,Handysize
+1010,Rotterdam-Casablanca,2025-10-06,34.86,Handysize
+1011,Rotterdam-Casablanca,2025-10-13,32.71,Handysize
+1012,Rotterdam-Casablanca,2025-10-20,34.67,Handysize
+1013,Rotterdam-Casablanca,2025-10-27,35.83,Handysize
+1014,Rotterdam-Casablanca,2025-11-03,36.88,Handysize
+1015,Rotterdam-Casablanca,2025-11-10,37.17,Handysize
+1016,Rotterdam-Casablanca,2025-11-17,35.14,Handysize
+1017,Rotterdam-Casablanca,2025-11-24,35.01,Handysize
+1018,Rotterdam-Casablanca,2025-12-01,33.48,Handysize
+1019,Rotterdam-Casablanca,2025-12-08,31.4,Handysize
+1020,Rotterdam-Casablanca,2025-12-15,33.67,Handysize
+1021,Rotterdam-Casablanca,2025-12-22,35.11,Handysize
+1022,Rotterdam-Casablanca,2025-12-29,35.68,Handysize
+1023,Rotterdam-Casablanca,2026-01-05,34.69,Handysize
+1024,Rotterdam-Casablanca,2026-01-12,32.76,Handysize
+1025,Rotterdam-Casablanca,2026-01-19,32.78,Handysize
+1026,Rotterdam-Casablanca,2026-01-26,34.41,Handysize
+1027,Rotterdam-Casablanca,2026-02-02,33.38,Handysize
+1028,Rotterdam-Casablanca,2026-02-09,31.68,Handysize
+1029,Rotterdam-Casablanca,2026-02-16,30.66,Handysize
+1030,Rotterdam-Casablanca,2026-02-23,32.32,Handysize
+1031,Rotterdam-Casablanca,2026-03-02,30.07,Handysize
+1032,Rotterdam-Casablanca,2026-03-09,28.27,Handysize
+1033,Rotterdam-Casablanca,2026-03-16,26.76,Handysize
+1034,Rotterdam-Casablanca,2026-03-23,27.18,Handysize
+1035,Rotterdam-Casablanca,2026-03-30,25.56,Handysize
+1036,Rotterdam-Casablanca,2026-04-06,25.32,Handysize
+1037,Rotterdam-Casablanca,2026-04-13,26.74,Handysize
+1038,Rotterdam-Casablanca,2026-04-20,25.64,Handysize
+1039,Rotterdam-Casablanca,2026-04-27,26.57,Handysize
+1040,Rotterdam-Casablanca,2026-05-04,26.5,Handysize
+1041,Rotterdam-Casablanca,2026-05-11,27.89,Handysize
+1042,Rotterdam-Casablanca,2026-05-18,29.57,Handysize
+1043,Rotterdam-Casablanca,2026-05-25,28.84,Handysize
+1044,Rotterdam-Casablanca,2026-06-01,26.91,Handysize
+1045,Rotterdam-Casablanca,2026-06-08,25.26,Handysize
+1046,Rotterdam-Casablanca,2026-06-15,27.28,Handysize
+1047,Rotterdam-Casablanca,2026-06-22,25.67,Handysize
+1048,Rotterdam-Casablanca,2026-06-29,25.65,Handysize
+1049,Rotterdam-Casablanca,2026-07-06,27.94,Handysize
+1050,Rotterdam-Casablanca,2026-07-13,29.2,Handysize
+1051,Recife-Alexandria,2024-07-15,25.87,Handysize
+1052,Recife-Alexandria,2024-07-22,25.61,Handysize
+1053,Recife-Alexandria,2024-07-29,26.2,Handysize
+1054,Recife-Alexandria,2024-08-05,24.95,Handysize
+1055,Recife-Alexandria,2024-08-12,25.97,Handysize
+1056,Recife-Alexandria,2024-08-19,25.3,Handysize
+1057,Recife-Alexandria,2024-08-26,25.91,Handysize
+1058,Recife-Alexandria,2024-09-02,27.02,Handysize
+1059,Recife-Alexandria,2024-09-09,25.36,Handysize
+1060,Recife-Alexandria,2024-09-16,23.92,Handysize
+1061,Recife-Alexandria,2024-09-23,23.48,Handysize
+1062,Recife-Alexandria,2024-09-30,22.63,Handysize
+1063,Recife-Alexandria,2024-10-07,23.69,Handysize
+1064,Recife-Alexandria,2024-10-14,24.78,Handysize
+1065,Recife-Alexandria,2024-10-21,24.92,Handysize
+1066,Recife-Alexandria,2024-10-28,24.4,Handysize
+1067,Recife-Alexandria,2024-11-04,25.29,Handysize
+1068,Recife-Alexandria,2024-11-11,25.18,Handysize
+1069,Recife-Alexandria,2024-11-18,23.65,Handysize
+1070,Recife-Alexandria,2024-11-25,25.25,Handysize
+1071,Recife-Alexandria,2024-12-02,23.14,Handysize
+1072,Recife-Alexandria,2024-12-09,24.98,Handysize
+1073,Recife-Alexandria,2024-12-16,24.76,Handysize
+1074,Recife-Alexandria,2024-12-23,25.53,Handysize
+1075,Recife-Alexandria,2024-12-30,27.53,Handysize
+1076,Recife-Alexandria,2025-01-06,28.32,Handysize
+1077,Recife-Alexandria,2025-01-13,26.33,Handysize
+1078,Recife-Alexandria,2025-01-20,28.14,Handysize
+1079,Recife-Alexandria,2025-01-27,28.73,Handysize
+1080,Recife-Alexandria,2025-02-03,30.7,Handysize
+1081,Recife-Alexandria,2025-02-10,30.41,Handysize
+1082,Recife-Alexandria,2025-02-17,32.22,Handysize
+1083,Recife-Alexandria,2025-02-24,33.76,Handysize
+1084,Recife-Alexandria,2025-03-03,33.05,Handysize
+1085,Recife-Alexandria,2025-03-10,32.04,Handysize
+1086,Recife-Alexandria,2025-03-17,30.31,Handysize
+1087,Recife-Alexandria,2025-03-24,30.98,Handysize
+1088,Recife-Alexandria,2025-03-31,30.51,Handysize
+1089,Recife-Alexandria,2025-04-07,31.69,Handysize
+1090,Recife-Alexandria,2025-04-14,32.76,Handysize
+1091,Recife-Alexandria,2025-04-21,33.77,Handysize
+1092,Recife-Alexandria,2025-04-28,34.16,Handysize
+1093,Recife-Alexandria,2025-05-05,32.84,Handysize
+1094,Recife-Alexandria,2025-05-12,32.14,Handysize
+1095,Recife-Alexandria,2025-05-19,32.96,Handysize
+1096,Recife-Alexandria,2025-05-26,31.58,Handysize
+1097,Recife-Alexandria,2025-06-02,31.78,Handysize
+1098,Recife-Alexandria,2025-06-09,32.53,Handysize
+1099,Recife-Alexandria,2025-06-16,33.96,Handysize
+1100,Recife-Alexandria,2025-06-23,31.85,Handysize
+1101,Recife-Alexandria,2025-06-30,30.11,Handysize
+1102,Recife-Alexandria,2025-07-07,28.4,Handysize
+1103,Recife-Alexandria,2025-07-14,28.17,Handysize
+1104,Recife-Alexandria,2025-07-21,26.96,Handysize
+1105,Recife-Alexandria,2025-07-28,26.02,Handysize
+1106,Recife-Alexandria,2025-08-04,24.7,Handysize
+1107,Recife-Alexandria,2025-08-11,22.64,Handysize
+1108,Recife-Alexandria,2025-08-18,20.88,Handysize
+1109,Recife-Alexandria,2025-08-25,22.77,Handysize
+1110,Recife-Alexandria,2025-09-01,23.45,Handysize
+1111,Recife-Alexandria,2025-09-08,24.9,Handysize
+1112,Recife-Alexandria,2025-09-15,26.84,Handysize
+1113,Recife-Alexandria,2025-09-22,27.44,Handysize
+1114,Recife-Alexandria,2025-09-29,28.34,Handysize
+1115,Recife-Alexandria,2025-10-06,26.7,Handysize
+1116,Recife-Alexandria,2025-10-13,28.23,Handysize
+1117,Recife-Alexandria,2025-10-20,26.64,Handysize
+1118,Recife-Alexandria,2025-10-27,27.31,Handysize
+1119,Recife-Alexandria,2025-11-03,29.04,Handysize
+1120,Recife-Alexandria,2025-11-10,29.32,Handysize
+1121,Recife-Alexandria,2025-11-17,31.34,Handysize
+1122,Recife-Alexandria,2025-11-24,33.05,Handysize
+1123,Recife-Alexandria,2025-12-01,33.9,Handysize
+1124,Recife-Alexandria,2025-12-08,32.83,Handysize
+1125,Recife-Alexandria,2025-12-15,32.69,Handysize
+1126,Recife-Alexandria,2025-12-22,34.57,Handysize
+1127,Recife-Alexandria,2025-12-29,35.17,Handysize
+1128,Recife-Alexandria,2026-01-05,37.0,Handysize
+1129,Recife-Alexandria,2026-01-12,36.03,Handysize
+1130,Recife-Alexandria,2026-01-19,35.72,Handysize
+1131,Recife-Alexandria,2026-01-26,37.46,Handysize
+1132,Recife-Alexandria,2026-02-02,38.63,Handysize
+1133,Recife-Alexandria,2026-02-09,37.86,Handysize
+1134,Recife-Alexandria,2026-02-16,36.4,Handysize
+1135,Recife-Alexandria,2026-02-23,34.56,Handysize
+1136,Recife-Alexandria,2026-03-02,35.76,Handysize
+1137,Recife-Alexandria,2026-03-09,35.25,Handysize
+1138,Recife-Alexandria,2026-03-16,34.53,Handysize
+1139,Recife-Alexandria,2026-03-23,32.63,Handysize
+1140,Recife-Alexandria,2026-03-30,34.6,Handysize
+1141,Recife-Alexandria,2026-04-06,33.58,Handysize
+1142,Recife-Alexandria,2026-04-13,33.33,Handysize
+1143,Recife-Alexandria,2026-04-20,33.29,Handysize
+1144,Recife-Alexandria,2026-04-27,35.14,Handysize
+1145,Recife-Alexandria,2026-05-04,35.62,Handysize
+1146,Recife-Alexandria,2026-05-11,34.23,Handysize
+1147,Recife-Alexandria,2026-05-18,34.19,Handysize
+1148,Recife-Alexandria,2026-05-25,32.66,Handysize
+1149,Recife-Alexandria,2026-06-01,33.82,Handysize
+1150,Recife-Alexandria,2026-06-08,32.6,Handysize
+1151,Recife-Alexandria,2026-06-15,33.22,Handysize
+1152,Recife-Alexandria,2026-06-22,35.0,Handysize
+1153,Recife-Alexandria,2026-06-29,35.93,Handysize
+1154,Recife-Alexandria,2026-07-06,34.22,Handysize
+1155,Recife-Alexandria,2026-07-13,32.37,Handysize
+1156,Houston-Veracruz,2024-07-15,32.37,Handysize
+1157,Houston-Veracruz,2024-07-22,31.09,Handysize
+1158,Houston-Veracruz,2024-07-29,30.81,Handysize
+1159,Houston-Veracruz,2024-08-05,32.84,Handysize
+1160,Houston-Veracruz,2024-08-12,31.04,Handysize
+1161,Houston-Veracruz,2024-08-19,31.76,Handysize
+1162,Houston-Veracruz,2024-08-26,33.98,Handysize
+1163,Houston-Veracruz,2024-09-02,34.82,Handysize
+1164,Houston-Veracruz,2024-09-09,33.63,Handysize
+1165,Houston-Veracruz,2024-09-16,34.65,Handysize
+1166,Houston-Veracruz,2024-09-23,36.72,Handysize
+1167,Houston-Veracruz,2024-09-30,37.1,Handysize
+1168,Houston-Veracruz,2024-10-07,37.18,Handysize
+1169,Houston-Veracruz,2024-10-14,39.43,Handysize
+1170,Houston-Veracruz,2024-10-21,39.39,Handysize
+1171,Houston-Veracruz,2024-10-28,39.06,Handysize
+1172,Houston-Veracruz,2024-11-04,40.82,Handysize
+1173,Houston-Veracruz,2024-11-11,42.26,Handysize
+1174,Houston-Veracruz,2024-11-18,43.72,Handysize
+1175,Houston-Veracruz,2024-11-25,43.93,Handysize
+1176,Houston-Veracruz,2024-12-02,41.38,Handysize
+1177,Houston-Veracruz,2024-12-09,43.71,Handysize
+1178,Houston-Veracruz,2024-12-16,45.34,Handysize
+1179,Houston-Veracruz,2024-12-23,45.24,Handysize
+1180,Houston-Veracruz,2024-12-30,45.59,Handysize
+1181,Houston-Veracruz,2025-01-06,47.82,Handysize
+1182,Houston-Veracruz,2025-01-13,47.09,Handysize
+1183,Houston-Veracruz,2025-01-20,48.02,Handysize
+1184,Houston-Veracruz,2025-01-27,47.52,Handysize
+1185,Houston-Veracruz,2025-02-03,48.19,Handysize
+1186,Houston-Veracruz,2025-02-10,50.54,Handysize
+1187,Houston-Veracruz,2025-02-17,48.45,Handysize
+1188,Houston-Veracruz,2025-02-24,48.62,Handysize
+1189,Houston-Veracruz,2025-03-03,50.98,Handysize
+1190,Houston-Veracruz,2025-03-10,48.84,Handysize
+1191,Houston-Veracruz,2025-03-17,48.63,Handysize
+1192,Houston-Veracruz,2025-03-24,49.99,Handysize
+1193,Houston-Veracruz,2025-03-31,50.75,Handysize
+1194,Houston-Veracruz,2025-04-07,49.09,Handysize
+1195,Houston-Veracruz,2025-04-14,46.74,Handysize
+1196,Houston-Veracruz,2025-04-21,46.14,Handysize
+1197,Houston-Veracruz,2025-04-28,44.56,Handysize
+1198,Houston-Veracruz,2025-05-05,45.56,Handysize
+1199,Houston-Veracruz,2025-05-12,47.59,Handysize
+1200,Houston-Veracruz,2025-05-19,48.26,Handysize
+1201,Houston-Veracruz,2025-05-26,47.54,Handysize
+1202,Houston-Veracruz,2025-06-02,45.42,Handysize
+1203,Houston-Veracruz,2025-06-09,46.1,Handysize
+1204,Houston-Veracruz,2025-06-16,47.3,Handysize
+1205,Houston-Veracruz,2025-06-23,45.46,Handysize
+1206,Houston-Veracruz,2025-06-30,43.89,Handysize
+1207,Houston-Veracruz,2025-07-07,45.01,Handysize
+1208,Houston-Veracruz,2025-07-14,45.49,Handysize
+1209,Houston-Veracruz,2025-07-21,45.43,Handysize
+1210,Houston-Veracruz,2025-07-28,43.19,Handysize
+1211,Houston-Veracruz,2025-08-04,43.4,Handysize
+1212,Houston-Veracruz,2025-08-11,42.42,Handysize
+1213,Houston-Veracruz,2025-08-18,42.59,Handysize
+1214,Houston-Veracruz,2025-08-25,44.3,Handysize
+1215,Houston-Veracruz,2025-09-01,44.04,Handysize
+1216,Houston-Veracruz,2025-09-08,46.58,Handysize
+1217,Houston-Veracruz,2025-09-15,44.21,Handysize
+1218,Houston-Veracruz,2025-09-22,41.94,Handysize
+1219,Houston-Veracruz,2025-09-29,43.41,Handysize
+1220,Houston-Veracruz,2025-10-06,41.07,Handysize
+1221,Houston-Veracruz,2025-10-13,39.12,Handysize
+1222,Houston-Veracruz,2025-10-20,40.69,Handysize
+1223,Houston-Veracruz,2025-10-27,41.55,Handysize
+1224,Houston-Veracruz,2025-11-03,41.33,Handysize
+1225,Houston-Veracruz,2025-11-10,42.24,Handysize
+1226,Houston-Veracruz,2025-11-17,44.16,Handysize
+1227,Houston-Veracruz,2025-11-24,42.36,Handysize
+1228,Houston-Veracruz,2025-12-01,42.77,Handysize
+1229,Houston-Veracruz,2025-12-08,44.94,Handysize
+1230,Houston-Veracruz,2025-12-15,42.57,Handysize
+1231,Houston-Veracruz,2025-12-22,40.74,Handysize
+1232,Houston-Veracruz,2025-12-29,41.53,Handysize
+1233,Houston-Veracruz,2026-01-05,41.38,Handysize
+1234,Houston-Veracruz,2026-01-12,43.52,Handysize
+1235,Houston-Veracruz,2026-01-19,41.19,Handysize
+1236,Houston-Veracruz,2026-01-26,42.22,Handysize
+1237,Houston-Veracruz,2026-02-02,40.33,Handysize
+1238,Houston-Veracruz,2026-02-09,38.65,Handysize
+1239,Houston-Veracruz,2026-02-16,36.35,Handysize
+1240,Houston-Veracruz,2026-02-23,35.36,Handysize
+1241,Houston-Veracruz,2026-03-02,36.87,Handysize
+1242,Houston-Veracruz,2026-03-09,36.64,Handysize
+1243,Houston-Veracruz,2026-03-16,34.96,Handysize
+1244,Houston-Veracruz,2026-03-23,35.42,Handysize
+1245,Houston-Veracruz,2026-03-30,37.05,Handysize
+1246,Houston-Veracruz,2026-04-06,35.03,Handysize
+1247,Houston-Veracruz,2026-04-13,35.02,Handysize
+1248,Houston-Veracruz,2026-04-20,36.55,Handysize
+1249,Houston-Veracruz,2026-04-27,35.12,Handysize
+1250,Houston-Veracruz,2026-05-04,36.68,Handysize
+1251,Houston-Veracruz,2026-05-11,36.3,Handysize
+1252,Houston-Veracruz,2026-05-18,37.9,Handysize
+1253,Houston-Veracruz,2026-05-25,40.37,Handysize
+1254,Houston-Veracruz,2026-06-01,41.28,Handysize
+1255,Houston-Veracruz,2026-06-08,40.38,Handysize
+1256,Houston-Veracruz,2026-06-15,42.82,Handysize
+1257,Houston-Veracruz,2026-06-22,43.2,Handysize
+1258,Houston-Veracruz,2026-06-29,41.35,Handysize
+1259,Houston-Veracruz,2026-07-06,43.07,Handysize
+1260,Houston-Veracruz,2026-07-13,44.57,Handysize

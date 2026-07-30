@@ -1,0 +1,29 @@
+vessel_id,name,vessel_type,dwt,build_year,flag
+1,Golden Voyager,Capesize,174299,2008,Hong Kong
+2,Blue Pioneer,Capesize,174132,2003,Marshall Islands
+3,Coral Voyager,Capesize,150976,2002,Hong Kong
+4,Blue Discovery,Capesize,169726,2000,Hong Kong
+5,Coral Horizon,Capesize,164719,2018,Singapore
+6,Nordic Venture,Capesize,176405,2005,Cyprus
+7,Northern Endeavor,Capesize,155094,2006,Malta
+8,Golden Trader,Panamax,77449,2005,Malta
+9,Crown Legacy,Panamax,73667,2003,Bahamas
+10,Golden Mariner,Panamax,67582,2019,Singapore
+11,Ocean Odyssey,Panamax,67279,2003,Hong Kong
+12,Southern Trader,Panamax,72628,2005,Cyprus
+13,Global Enterprise,Panamax,76954,2007,Malta
+14,Crown Horizon,Panamax,73748,2023,Marshall Islands
+15,Star Discovery,Supramax,54010,2009,Bahamas
+16,Amber Endeavor,Supramax,59125,2011,Malta
+17,Pacific Horizon,Supramax,50525,2014,Cyprus
+18,Global Trader,Supramax,53456,2022,Malta
+19,Ocean Spirit,Supramax,58179,2016,Bahamas
+20,Silver Endeavor,Supramax,52287,2011,Singapore
+21,Coral Legacy,Supramax,56543,2015,Hong Kong
+22,Silver Discovery,Handysize,36085,2007,Panama
+23,Golden Pioneer,Handysize,38280,2010,Cyprus
+24,Atlantic Mariner,Handysize,34252,2019,Singapore
+25,Nordic Spirit,Handysize,39808,2008,Singapore
+26,Northern Trader,Handysize,32808,2018,Liberia
+27,Ivory Voyager,Handysize,39830,2013,Liberia
+28,Golden Harmony,Handysize,38244,2014,Hong Kong

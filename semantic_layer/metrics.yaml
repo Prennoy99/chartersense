@@ -1,0 +1,113 @@
+# CharterSense semantic layer.
+#
+# This file is the single source of truth for business metric definitions.
+# It is what the LLM's system prompt gets grounded in for SQL generation
+# (Milestone 3) — the LLM sees this file, not the raw table schema — so that
+# every generated query uses the same, auditable business logic every time.
+#
+# All amounts in USD unless noted. All underlying data is synthetic.
+
+version: 1
+
+dimensions:
+  vessel_type:
+    description: "Vessel size class."
+    values: [Capesize, Panamax, Supramax, Handysize]
+    column: "vessels.vessel_type"
+
+  charterer:
+    description: "Chartering counterparty that fixed the voyage."
+    column: "voyages.charterer"
+
+  commodity:
+    description: "Cargo commodity carried on the voyage."
+    column: "voyages.commodity"
+
+  route:
+    description: >
+      Load port to discharge port, formatted "<load_port>-<discharge_port>"
+      (e.g. "Tubarao-Qingdao"). voyages has load_port/discharge_port as
+      separate columns; freight_rates.route already uses this combined format.
+    derived_from: "voyages.load_port || '-' || voyages.discharge_port"
+
+  date_range:
+    description: >
+      Filter on voyages.commencement_date for voyage-grain metrics (tce,
+      voyage_profitability, fleet_utilization_rate, ballast_ratio), or on
+      freight_rates.date for avg_freight_rate_by_route.
+
+derived_fields:
+  voyage_revenue_usd:
+    definition: "Revenue earned on a voyage at its agreed fixture rate."
+    formula: "voyages.cargo_quantity_tons * voyages.freight_rate_usd_per_ton"
+    note: >
+      This is the rate the voyage was actually fixed at, distinct from
+      freight_rates (a route/date/vessel_type market benchmark series used
+      for the avg_freight_rate_by_route metric, not for computing any
+      individual voyage's revenue).
+
+  voyage_total_costs_usd:
+    definition: "All costs incurred on a voyage."
+    formula: >
+      voyage_costs.bunker_cost_usd + voyage_costs.port_costs_usd
+      + voyage_costs.canal_costs_usd + voyage_costs.other_costs_usd
+
+  voyage_duration_days:
+    definition: "Total days a voyage occupied the vessel: ballast + laden."
+    formula: "voyages.ballast_days + voyages.laden_days"
+
+metrics:
+  tce:
+    name: "Time Charter Equivalent (TCE)"
+    definition: >
+      Daily net revenue a voyage generates, after voyage costs, expressed
+      per day of voyage duration.
+    formula: "(voyage_revenue_usd - voyage_total_costs_usd) / voyage_duration_days"
+    unit: "USD/day"
+    grain: "per_voyage, typically reported as an average across matching voyages"
+    source_tables: [voyages, voyage_costs, vessels]
+    supported_filters: [vessel_type, charterer, commodity, date_range]
+
+  fleet_utilization_rate:
+    name: "Fleet Utilization Rate"
+    definition: >
+      Share of total vessel-days spent laden (carrying cargo) rather than
+      ballast (empty transit), across all matching voyages.
+    formula: "sum(laden_days) / sum(laden_days + ballast_days)"
+    unit: "%"
+    grain: "aggregate across matching voyages"
+    source_tables: [voyages, vessels]
+    supported_filters: [vessel_type, charterer, date_range]
+
+  avg_freight_rate_by_route:
+    name: "Average Freight Rate by Route"
+    definition: >
+      Mean market benchmark freight rate observed on a given route over a
+      specified period. Uses freight_rates (market series), not individual
+      voyage fixture rates.
+    formula: "avg(rate_usd_per_ton_or_day) grouped by route"
+    unit: "USD/ton or USD/day (see freight_rates.vessel_type for context)"
+    grain: "aggregate, grouped by route"
+    source_tables: [freight_rates]
+    supported_filters: [vessel_type, date_range]
+
+  voyage_profitability:
+    name: "Voyage Profitability"
+    definition: "Net margin per voyage after all voyage costs."
+    formula: "voyage_revenue_usd - voyage_total_costs_usd"
+    unit: "USD"
+    grain: "per_voyage, typically reported as an average or sum across matching voyages"
+    source_tables: [voyages, voyage_costs, vessels]
+    supported_filters: [vessel_type, charterer, commodity, date_range]
+
+  ballast_ratio:
+    name: "Ballast Ratio"
+    definition: >
+      Share of voyage days spent empty (ballast) rather than laden, across
+      all matching voyages. Complementary to fleet_utilization_rate
+      (ballast_ratio = 1 - fleet_utilization_rate).
+    formula: "sum(ballast_days) / sum(ballast_days + laden_days)"
+    unit: "%"
+    grain: "aggregate across matching voyages"
+    source_tables: [voyages, vessels]
+    supported_filters: [vessel_type, charterer, date_range]

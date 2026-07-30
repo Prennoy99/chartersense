@@ -1,0 +1,385 @@
+voyage_id,vessel_id,charterer,load_port,discharge_port,commodity,cargo_quantity_tons,laycan_start,laycan_end,commencement_date,completion_date,ballast_days,laden_days,freight_rate_usd_per_ton
+1,1,TransOcean Bulk Partners,Tubarao,Qingdao,Iron Ore,160389.53,2024-07-23,2024-07-27,2024-07-26,2024-08-28,13,20,15.43
+2,1,Continental Grain Corp,Tubarao,Qingdao,Iron Ore,173195.02,2024-08-29,2024-08-31,2024-08-31,2024-10-04,12,22,15.57
+3,1,Vantage Ore Traders,Newcastle,Visakhapatnam,Coal,158762.0,2024-10-05,2024-10-08,2024-10-09,2024-11-15,8,29,14.14
+4,1,Vantage Ore Traders,Tubarao,Qingdao,Iron Ore,174156.82,2024-11-24,2024-11-25,2024-11-25,2025-01-05,14,27,8.47
+5,1,Anchorpoint Bulk Carriers,Port Hedland,Qingdao,Iron Ore,157646.24,2025-01-08,2025-01-13,2025-01-10,2025-03-01,15,35,11.61
+6,1,Polaris Minerals,Tubarao,Qingdao,Iron Ore,168471.57,2025-03-05,2025-03-08,2025-03-09,2025-04-07,6,23,11.74
+7,1,Summit Freight & Trading,Port Hedland,Qingdao,Iron Ore,158804.18,2025-04-07,2025-04-09,2025-04-09,2025-05-12,10,23,8.69
+8,1,Harborlight Commodities,Port Hedland,Qingdao,Iron Ore,171720.55,2025-05-14,2025-05-19,2025-05-15,2025-06-20,13,23,11.81
+9,1,Deep Blue Chartering,Tubarao,Qingdao,Iron Ore,165304.06,2025-06-27,2025-07-01,2025-06-28,2025-08-06,7,32,14.27
+10,1,Polaris Minerals,Newcastle,Visakhapatnam,Coal,154354.02,2025-08-14,2025-08-17,2025-08-16,2025-09-21,12,24,10.47
+11,1,Anchorpoint Bulk Carriers,Newcastle,Visakhapatnam,Coal,151602.23,2025-09-29,2025-10-04,2025-09-30,2025-11-07,13,25,11.49
+12,2,TransOcean Bulk Partners,Tubarao,Qingdao,Iron Ore,171304.54,2024-07-30,2024-08-04,2024-08-03,2024-09-08,14,22,10.53
+13,2,Meridian Bulk Shipping,Tubarao,Qingdao,Iron Ore,178580.37,2024-09-12,2024-09-15,2024-09-16,2024-10-30,15,29,15.49
+14,2,Ironbridge Resources,Newcastle,Visakhapatnam,Coal,167617.28,2024-10-31,2024-11-03,2024-11-02,2024-12-08,8,28,17.03
+15,2,Vantage Ore Traders,Newcastle,Visakhapatnam,Coal,168778.6,2024-12-11,2024-12-12,2024-12-14,2025-01-18,15,20,11.07
+16,2,Meridian Bulk Shipping,Newcastle,Visakhapatnam,Coal,160108.18,2025-01-22,2025-01-25,2025-01-24,2025-03-03,8,30,12.01
+17,2,Meridian Bulk Shipping,Port Hedland,Qingdao,Iron Ore,166033.61,2025-03-03,2025-03-07,2025-03-05,2025-04-09,7,28,8.57
+18,2,Meridian Bulk Shipping,Newcastle,Visakhapatnam,Coal,152548.91,2025-04-11,2025-04-15,2025-04-13,2025-05-19,5,31,12.47
+19,2,Continental Grain Corp,Port Hedland,Qingdao,Iron Ore,172292.11,2025-05-20,2025-05-22,2025-05-22,2025-07-07,13,33,11.86
+20,2,Meridian Bulk Shipping,Port Hedland,Qingdao,Iron Ore,170747.49,2025-07-11,2025-07-13,2025-07-14,2025-08-25,15,27,6.65
+21,2,TransOcean Bulk Partners,Port Hedland,Qingdao,Iron Ore,168200.66,2025-09-01,2025-09-02,2025-09-03,2025-10-09,9,27,8.39
+22,2,Anchorpoint Bulk Carriers,Port Hedland,Qingdao,Iron Ore,172540.77,2025-10-18,2025-10-19,2025-10-19,2025-12-03,15,30,7.57
+23,2,Meridian Bulk Shipping,Port Hedland,Qingdao,Iron Ore,172990.09,2025-12-10,2025-12-14,2025-12-11,2026-01-23,10,33,7.14
+24,2,Ironbridge Resources,Newcastle,Visakhapatnam,Coal,151399.48,2026-01-30,2026-02-03,2026-02-02,2026-03-15,15,26,15.31
+25,2,Harborlight Commodities,Newcastle,Visakhapatnam,Coal,163944.17,2026-03-18,2026-03-22,2026-03-21,2026-05-02,9,33,14.44
+26,3,Anchorpoint Bulk Carriers,Port Hedland,Qingdao,Iron Ore,159203.65,2024-07-30,2024-08-02,2024-08-02,2024-09-02,11,20,10.71
+27,3,Ironbridge Resources,Newcastle,Visakhapatnam,Coal,160309.04,2024-09-06,2024-09-09,2024-09-07,2024-10-14,12,25,15.06
+28,3,Vantage Ore Traders,Tubarao,Qingdao,Iron Ore,164896.85,2024-10-19,2024-10-20,2024-10-20,2024-11-21,8,24,11.8
+29,3,Vantage Ore Traders,Port Hedland,Qingdao,Iron Ore,172853.2,2024-11-27,2024-11-28,2024-11-29,2025-01-06,11,27,11.16
+30,3,Kestrel Commodities,Port Hedland,Qingdao,Iron Ore,157666.78,2025-01-15,2025-01-19,2025-01-16,2025-02-17,5,27,8.79
+31,3,TransOcean Bulk Partners,Newcastle,Visakhapatnam,Coal,164873.11,2025-02-22,2025-02-24,2025-02-26,2025-04-13,13,33,13.8
+32,3,TransOcean Bulk Partners,Port Hedland,Qingdao,Iron Ore,156549.67,2025-04-20,2025-04-24,2025-04-23,2025-06-04,15,27,7.71
+33,3,Deep Blue Chartering,Tubarao,Qingdao,Iron Ore,168297.36,2025-06-06,2025-06-07,2025-06-08,2025-07-13,11,24,10.65
+34,3,Summit Freight & Trading,Newcastle,Visakhapatnam,Coal,155972.25,2025-07-14,2025-07-17,2025-07-15,2025-08-30,11,35,13.12
+35,3,Redwood Grain Traders,Port Hedland,Qingdao,Iron Ore,155580.5,2025-08-31,2025-09-04,2025-09-04,2025-10-10,8,28,8.02
+36,3,Redwood Grain Traders,Newcastle,Visakhapatnam,Coal,161287.84,2025-10-10,2025-10-15,2025-10-14,2025-11-16,13,20,10.22
+37,3,TransOcean Bulk Partners,Port Hedland,Qingdao,Iron Ore,161750.01,2025-11-18,2025-11-21,2025-11-22,2025-12-28,10,26,11.28
+38,3,Redwood Grain Traders,Port Hedland,Qingdao,Iron Ore,168002.88,2025-12-28,2025-12-30,2025-12-31,2026-01-26,5,21,10.69
+39,3,Harborlight Commodities,Newcastle,Visakhapatnam,Coal,163389.18,2026-01-26,2026-01-30,2026-01-28,2026-03-03,7,27,14.51
+40,4,Summit Freight & Trading,Port Hedland,Qingdao,Iron Ore,168546.95,2024-07-17,2024-07-22,2024-07-20,2024-08-15,6,20,11.75
+41,4,Vantage Ore Traders,Tubarao,Qingdao,Iron Ore,170654.9,2024-08-19,2024-08-22,2024-08-20,2024-09-21,9,23,13.29
+42,4,Redwood Grain Traders,Tubarao,Qingdao,Iron Ore,168709.74,2024-09-26,2024-09-28,2024-09-30,2024-11-11,11,31,13.87
+43,4,Deep Blue Chartering,Port Hedland,Qingdao,Iron Ore,171614.62,2024-11-17,2024-11-19,2024-11-20,2024-12-29,11,28,6.52
+44,4,TransOcean Bulk Partners,Port Hedland,Qingdao,Iron Ore,164751.0,2025-01-03,2025-01-05,2025-01-06,2025-02-15,5,35,8.13
+45,4,Harborlight Commodities,Newcastle,Visakhapatnam,Coal,164401.49,2025-02-20,2025-02-22,2025-02-21,2025-03-24,5,26,13.91
+46,4,Deep Blue Chartering,Tubarao,Qingdao,Iron Ore,166124.12,2025-03-22,2025-03-24,2025-03-26,2025-05-01,9,27,12.65
+47,4,Harborlight Commodities,Port Hedland,Qingdao,Iron Ore,160028.07,2025-05-08,2025-05-11,2025-05-11,2025-06-24,10,34,6.72
+48,4,TransOcean Bulk Partners,Tubarao,Qingdao,Iron Ore,179532.14,2025-06-25,2025-06-30,2025-06-28,2025-08-10,8,35,12.2
+49,4,TransOcean Bulk Partners,Tubarao,Qingdao,Iron Ore,160910.31,2025-08-15,2025-08-18,2025-08-17,2025-09-15,9,20,8.44
+50,4,Meridian Bulk Shipping,Tubarao,Qingdao,Iron Ore,168809.38,2025-09-20,2025-09-24,2025-09-24,2025-10-28,5,29,9.47
+51,4,TransOcean Bulk Partners,Port Hedland,Qingdao,Iron Ore,157983.95,2025-10-30,2025-11-01,2025-10-31,2025-12-04,12,22,9.38
+52,4,Anchorpoint Bulk Carriers,Newcastle,Visakhapatnam,Coal,168170.09,2025-12-08,2025-12-12,2025-12-12,2026-01-22,14,27,12.38
+53,4,Vantage Ore Traders,Tubarao,Qingdao,Iron Ore,163141.14,2026-01-22,2026-01-23,2026-01-25,2026-03-07,15,26,9.39
+54,4,Redwood Grain Traders,Port Hedland,Qingdao,Iron Ore,169059.75,2026-03-13,2026-03-16,2026-03-16,2026-04-17,5,27,8.72
+55,4,Continental Grain Corp,Port Hedland,Qingdao,Iron Ore,171532.62,2026-04-20,2026-04-23,2026-04-22,2026-05-25,6,27,6.43
+56,5,Anchorpoint Bulk Carriers,Port Hedland,Qingdao,Iron Ore,165799.63,2024-07-15,2024-07-20,2024-07-18,2024-08-28,9,32,8.63
+57,5,Continental Grain Corp,Tubarao,Qingdao,Iron Ore,171524.94,2024-09-02,2024-09-05,2024-09-03,2024-10-06,6,27,14.1
+58,5,Redwood Grain Traders,Newcastle,Visakhapatnam,Coal,156959.22,2024-10-09,2024-10-13,2024-10-10,2024-11-25,11,35,12.67
+59,5,Vantage Ore Traders,Port Hedland,Qingdao,Iron Ore,156761.2,2024-12-03,2024-12-07,2024-12-04,2025-01-20,15,32,7.51
+60,5,Deep Blue Chartering,Newcastle,Visakhapatnam,Coal,153751.65,2025-01-18,2025-01-19,2025-01-22,2025-03-10,13,34,12.89
+61,5,Harborlight Commodities,Tubarao,Qingdao,Iron Ore,160577.39,2025-03-16,2025-03-17,2025-03-20,2025-05-02,9,34,13.04
+62,5,Polaris Minerals,Tubarao,Qingdao,Iron Ore,172954.19,2025-05-06,2025-05-07,2025-05-10,2025-06-10,8,23,9.23
+63,5,Polaris Minerals,Port Hedland,Qingdao,Iron Ore,158812.21,2025-06-17,2025-06-21,2025-06-19,2025-07-31,8,34,9.6
+64,5,Anchorpoint Bulk Carriers,Port Hedland,Qingdao,Iron Ore,169521.02,2025-08-07,2025-08-10,2025-08-08,2025-09-18,13,28,11.02
+65,5,Polaris Minerals,Port Hedland,Qingdao,Iron Ore,173657.05,2025-09-24,2025-09-28,2025-09-28,2025-11-07,10,30,11.22
+66,5,Redwood Grain Traders,Tubarao,Qingdao,Iron Ore,179768.28,2025-11-11,2025-11-15,2025-11-15,2025-12-30,10,35,14.34
+67,5,Polaris Minerals,Newcastle,Visakhapatnam,Coal,160519.02,2026-01-05,2026-01-06,2026-01-09,2026-02-11,10,23,13.66
+68,5,Kestrel Commodities,Port Hedland,Qingdao,Iron Ore,172035.31,2026-02-10,2026-02-11,2026-02-14,2026-03-25,9,30,11.11
+69,6,Summit Freight & Trading,Tubarao,Qingdao,Iron Ore,179948.52,2024-07-30,2024-08-02,2024-08-01,2024-09-06,14,22,13.97
+70,6,Ironbridge Resources,Port Hedland,Qingdao,Iron Ore,161487.49,2024-09-08,2024-09-09,2024-09-09,2024-10-15,7,29,6.34
+71,6,Anchorpoint Bulk Carriers,Tubarao,Qingdao,Iron Ore,173662.69,2024-10-15,2024-10-20,2024-10-19,2024-11-17,7,22,11.98
+72,6,Ironbridge Resources,Newcastle,Visakhapatnam,Coal,153159.51,2024-11-20,2024-11-25,2024-11-23,2025-01-01,5,34,13.53
+73,6,Ironbridge Resources,Port Hedland,Qingdao,Iron Ore,157133.07,2025-01-03,2025-01-07,2025-01-07,2025-02-11,9,26,8.29
+74,6,Ironbridge Resources,Port Hedland,Qingdao,Iron Ore,170514.82,2025-02-15,2025-02-18,2025-02-19,2025-03-17,5,21,7.38
+75,6,Continental Grain Corp,Newcastle,Visakhapatnam,Coal,150667.29,2025-03-18,2025-03-22,2025-03-21,2025-04-17,6,21,12.92
+76,6,Deep Blue Chartering,Tubarao,Qingdao,Iron Ore,165139.4,2025-04-18,2025-04-20,2025-04-21,2025-05-29,7,31,14.6
+77,6,Ironbridge Resources,Port Hedland,Qingdao,Iron Ore,174345.39,2025-05-30,2025-06-03,2025-06-01,2025-07-01,6,24,10.83
+78,6,Meridian Bulk Shipping,Port Hedland,Qingdao,Iron Ore,157166.92,2025-06-30,2025-07-03,2025-07-04,2025-08-11,10,28,7.4
+79,6,Meridian Bulk Shipping,Newcastle,Visakhapatnam,Coal,152333.52,2025-08-13,2025-08-17,2025-08-16,2025-09-25,6,34,10.36
+80,6,Continental Grain Corp,Tubarao,Qingdao,Iron Ore,168382.54,2025-10-02,2025-10-07,2025-10-05,2025-11-19,11,34,13.94
+81,6,Ironbridge Resources,Port Hedland,Qingdao,Iron Ore,163893.92,2025-11-25,2025-11-29,2025-11-27,2026-01-02,5,31,7.42
+82,6,Vantage Ore Traders,Tubarao,Qingdao,Iron Ore,178980.22,2026-01-07,2026-01-08,2026-01-09,2026-02-17,11,28,14.59
+83,6,Kestrel Commodities,Tubarao,Qingdao,Iron Ore,164104.11,2026-02-17,2026-02-22,2026-02-19,2026-03-28,10,27,14.64
+84,6,Continental Grain Corp,Tubarao,Qingdao,Iron Ore,179750.55,2026-04-01,2026-04-03,2026-04-04,2026-05-08,14,20,12.32
+85,7,Kestrel Commodities,Newcastle,Visakhapatnam,Coal,151047.98,2024-07-20,2024-07-23,2024-07-22,2024-08-21,10,20,15.93
+86,7,Polaris Minerals,Newcastle,Visakhapatnam,Coal,154431.0,2024-08-24,2024-08-29,2024-08-28,2024-10-04,14,23,14.92
+87,7,Polaris Minerals,Newcastle,Visakhapatnam,Coal,158525.47,2024-10-09,2024-10-13,2024-10-13,2024-11-08,5,21,10.86
+88,7,Deep Blue Chartering,Tubarao,Qingdao,Iron Ore,179892.56,2024-11-09,2024-11-13,2024-11-12,2024-12-17,7,28,12.24
+89,7,Deep Blue Chartering,Newcastle,Visakhapatnam,Coal,167761.82,2024-12-16,2024-12-20,2024-12-20,2025-01-30,15,26,13.31
+90,7,Vantage Ore Traders,Newcastle,Visakhapatnam,Coal,151342.67,2025-02-04,2025-02-08,2025-02-06,2025-03-18,9,31,16.65
+91,7,Summit Freight & Trading,Newcastle,Visakhapatnam,Coal,157071.96,2025-03-21,2025-03-25,2025-03-22,2025-04-26,5,30,15.32
+92,7,Kestrel Commodities,Port Hedland,Qingdao,Iron Ore,159484.9,2025-04-30,2025-05-04,2025-05-02,2025-06-03,6,26,6.65
+93,7,TransOcean Bulk Partners,Newcastle,Visakhapatnam,Coal,153608.32,2025-06-08,2025-06-09,2025-06-11,2025-07-15,14,20,15.62
+94,7,Vantage Ore Traders,Newcastle,Visakhapatnam,Coal,164819.38,2025-07-18,2025-07-20,2025-07-19,2025-09-04,15,32,17.77
+95,7,Continental Grain Corp,Tubarao,Qingdao,Iron Ore,171924.48,2025-09-08,2025-09-13,2025-09-11,2025-10-20,10,29,15.07
+96,7,Kestrel Commodities,Port Hedland,Qingdao,Iron Ore,163840.88,2025-10-22,2025-10-27,2025-10-26,2025-12-13,15,33,7.64
+97,7,Meridian Bulk Shipping,Newcastle,Visakhapatnam,Coal,157905.27,2025-12-21,2025-12-23,2025-12-22,2026-02-04,15,29,14.79
+98,7,Summit Freight & Trading,Port Hedland,Qingdao,Iron Ore,169940.28,2026-02-09,2026-02-13,2026-02-10,2026-03-15,10,23,7.05
+99,7,Ironbridge Resources,Tubarao,Qingdao,Iron Ore,169195.09,2026-03-18,2026-03-19,2026-03-22,2026-04-23,11,21,8.62
+100,7,Deep Blue Chartering,Port Hedland,Qingdao,Iron Ore,158437.46,2026-04-30,2026-05-03,2026-05-01,2026-06-08,6,32,11.69
+101,8,Harborlight Commodities,Gladstone,Kandla,Coal,76705.24,2024-07-27,2024-07-31,2024-07-28,2024-08-30,10,23,21.46
+102,8,Continental Grain Corp,Gladstone,Kandla,Coal,75273.79,2024-08-30,2024-09-02,2024-09-02,2024-10-02,12,18,22.19
+103,8,Deep Blue Chartering,Gladstone,Kandla,Coal,75544.46,2024-10-02,2024-10-06,2024-10-06,2024-10-28,5,17,21.6
+104,8,TransOcean Bulk Partners,Gladstone,Kandla,Coal,72689.21,2024-10-31,2024-11-01,2024-11-04,2024-11-30,9,17,20.31
+105,8,Vantage Ore Traders,Santos,Qingdao,Grain,65767.31,2024-12-06,2024-12-09,2024-12-09,2024-12-28,4,15,26.37
+106,8,Meridian Bulk Shipping,Gladstone,Kandla,Coal,74050.06,2025-01-05,2025-01-08,2025-01-07,2025-02-02,4,22,19.01
+107,8,Anchorpoint Bulk Carriers,Gladstone,Kandla,Coal,77909.86,2025-02-03,2025-02-07,2025-02-05,2025-02-26,6,15,19.24
+108,8,Summit Freight & Trading,Santos,Qingdao,Grain,68296.91,2025-03-03,2025-03-04,2025-03-06,2025-04-04,4,25,22.7
+109,8,Redwood Grain Traders,Santos,Qingdao,Grain,68102.32,2025-04-06,2025-04-09,2025-04-08,2025-05-07,5,24,23.87
+110,8,Polaris Minerals,Gladstone,Kandla,Coal,74701.16,2025-05-10,2025-05-12,2025-05-13,2025-06-17,10,25,22.29
+111,8,Deep Blue Chartering,Gladstone,Kandla,Coal,69802.63,2025-06-22,2025-06-25,2025-06-25,2025-07-19,9,15,16.14
+112,9,Anchorpoint Bulk Carriers,Gladstone,Kandla,Coal,76763.93,2024-07-17,2024-07-20,2024-07-18,2024-08-22,12,23,20.18
+113,9,Deep Blue Chartering,Gladstone,Kandla,Coal,74763.63,2024-08-22,2024-08-25,2024-08-26,2024-09-21,11,15,16.38
+114,9,Deep Blue Chartering,Gladstone,Kandla,Coal,71678.41,2024-09-22,2024-09-24,2024-09-26,2024-10-22,7,19,23.47
+115,9,Ironbridge Resources,Santos,Qingdao,Grain,65521.8,2024-10-30,2024-11-02,2024-11-01,2024-11-25,6,18,21.77
+116,9,Summit Freight & Trading,Santos,Qingdao,Grain,74053.06,2024-11-25,2024-11-29,2024-11-28,2024-12-20,5,17,17.77
+117,9,Vantage Ore Traders,New Orleans,Qingdao,Grain,68739.61,2024-12-23,2024-12-28,2024-12-27,2025-01-21,10,15,23.41
+118,9,Polaris Minerals,New Orleans,Qingdao,Grain,71960.72,2025-01-25,2025-01-29,2025-01-28,2025-02-18,6,15,19.94
+119,9,Vantage Ore Traders,New Orleans,Qingdao,Grain,72761.73,2025-02-19,2025-02-20,2025-02-23,2025-03-31,12,24,21.33
+120,9,Ironbridge Resources,Santos,Qingdao,Grain,67912.72,2025-04-01,2025-04-03,2025-04-03,2025-04-30,12,15,16.02
+121,9,Summit Freight & Trading,Gladstone,Kandla,Coal,76733.31,2025-05-02,2025-05-06,2025-05-03,2025-05-28,9,16,14.44
+122,9,Meridian Bulk Shipping,Santos,Qingdao,Grain,72351.87,2025-05-30,2025-06-04,2025-05-31,2025-07-02,7,25,19.99
+123,9,Deep Blue Chartering,Gladstone,Kandla,Coal,68631.01,2025-07-09,2025-07-11,2025-07-11,2025-08-16,11,25,21.76
+124,9,Redwood Grain Traders,Santos,Qingdao,Grain,69734.0,2025-08-14,2025-08-19,2025-08-18,2025-09-18,8,23,16.44
+125,9,Summit Freight & Trading,Santos,Qingdao,Grain,72433.08,2025-09-21,2025-09-25,2025-09-25,2025-10-20,5,20,26.74
+126,9,Continental Grain Corp,Gladstone,Kandla,Coal,72306.07,2025-10-23,2025-10-24,2025-10-27,2025-11-20,8,16,23.95
+127,9,Meridian Bulk Shipping,Santos,Qingdao,Grain,71897.65,2025-11-22,2025-11-24,2025-11-26,2025-12-31,11,24,20.22
+128,10,Continental Grain Corp,New Orleans,Qingdao,Grain,70130.86,2024-07-31,2024-08-03,2024-08-04,2024-09-03,5,25,28.5
+129,10,Anchorpoint Bulk Carriers,New Orleans,Qingdao,Grain,68828.54,2024-09-02,2024-09-05,2024-09-05,2024-09-28,5,18,25.94
+130,10,Vantage Ore Traders,Gladstone,Kandla,Coal,71143.85,2024-09-28,2024-10-02,2024-10-01,2024-10-30,6,23,16.79
+131,10,Deep Blue Chartering,New Orleans,Qingdao,Grain,74963.65,2024-11-05,2024-11-07,2024-11-09,2024-12-06,8,19,22.0
+132,10,TransOcean Bulk Partners,New Orleans,Qingdao,Grain,70499.97,2024-12-12,2024-12-13,2024-12-15,2025-01-18,9,25,22.07
+133,10,Ironbridge Resources,Gladstone,Kandla,Coal,70367.36,2025-01-23,2025-01-25,2025-01-25,2025-02-17,7,16,18.94
+134,10,Kestrel Commodities,New Orleans,Qingdao,Grain,74995.95,2025-02-24,2025-02-28,2025-02-27,2025-03-20,5,16,28.06
+135,10,Kestrel Commodities,Gladstone,Kandla,Coal,71445.15,2025-03-23,2025-03-28,2025-03-27,2025-04-23,5,22,22.78
+136,10,Polaris Minerals,Gladstone,Kandla,Coal,69646.57,2025-04-29,2025-05-02,2025-05-01,2025-05-21,4,16,17.23
+137,10,Vantage Ore Traders,New Orleans,Qingdao,Grain,71250.22,2025-05-24,2025-05-26,2025-05-27,2025-06-22,8,18,26.6
+138,10,TransOcean Bulk Partners,Gladstone,Kandla,Coal,77485.47,2025-06-28,2025-06-29,2025-06-29,2025-07-18,4,15,21.71
+139,10,Summit Freight & Trading,Santos,Qingdao,Grain,67448.78,2025-07-17,2025-07-21,2025-07-20,2025-08-20,12,19,25.69
+140,11,Ironbridge Resources,Santos,Qingdao,Grain,73614.85,2024-07-28,2024-07-31,2024-07-30,2024-08-26,7,20,19.83
+141,11,Vantage Ore Traders,New Orleans,Qingdao,Grain,67674.72,2024-09-01,2024-09-02,2024-09-05,2024-10-02,9,18,21.47
+142,11,TransOcean Bulk Partners,Santos,Qingdao,Grain,74959.69,2024-10-04,2024-10-08,2024-10-06,2024-11-02,9,18,21.6
+143,11,Redwood Grain Traders,New Orleans,Qingdao,Grain,65505.4,2024-11-08,2024-11-09,2024-11-11,2024-12-12,7,24,24.93
+144,11,Harborlight Commodities,Santos,Qingdao,Grain,69005.82,2024-12-13,2024-12-14,2024-12-16,2025-01-15,9,21,22.84
+145,11,Ironbridge Resources,Gladstone,Kandla,Coal,77750.83,2025-01-23,2025-01-25,2025-01-24,2025-02-25,8,24,17.94
+146,11,Deep Blue Chartering,Santos,Qingdao,Grain,66370.36,2025-03-06,2025-03-07,2025-03-07,2025-04-03,12,15,20.0
+147,11,Ironbridge Resources,Santos,Qingdao,Grain,72393.19,2025-04-03,2025-04-08,2025-04-07,2025-05-03,9,17,19.59
+148,11,Polaris Minerals,Santos,Qingdao,Grain,74798.98,2025-05-06,2025-05-07,2025-05-09,2025-06-02,4,20,23.0
+149,11,Summit Freight & Trading,Gladstone,Kandla,Coal,73242.32,2025-06-04,2025-06-06,2025-06-08,2025-06-30,7,15,21.21
+150,11,Summit Freight & Trading,New Orleans,Qingdao,Grain,66514.31,2025-06-30,2025-07-04,2025-07-03,2025-07-29,4,22,27.67
+151,11,Kestrel Commodities,Gladstone,Kandla,Coal,71250.5,2025-07-29,2025-08-03,2025-07-31,2025-08-29,6,23,20.62
+152,11,TransOcean Bulk Partners,Santos,Qingdao,Grain,69841.8,2025-09-05,2025-09-10,2025-09-08,2025-10-10,12,20,27.49
+153,12,Polaris Minerals,Gladstone,Kandla,Coal,71488.03,2024-07-21,2024-07-25,2024-07-24,2024-08-22,7,22,23.34
+154,12,Ironbridge Resources,Santos,Qingdao,Grain,67876.3,2024-08-27,2024-08-28,2024-08-30,2024-09-25,9,17,24.57
+155,12,Harborlight Commodities,New Orleans,Qingdao,Grain,66092.27,2024-09-27,2024-09-29,2024-09-30,2024-10-31,12,19,28.37
+156,12,Kestrel Commodities,New Orleans,Qingdao,Grain,71811.92,2024-10-29,2024-10-30,2024-11-02,2024-12-02,10,20,19.92
+157,12,Vantage Ore Traders,Santos,Qingdao,Grain,71458.98,2024-12-08,2024-12-11,2024-12-11,2025-01-06,7,19,26.9
+158,12,Polaris Minerals,New Orleans,Qingdao,Grain,72879.61,2025-01-07,2025-01-11,2025-01-08,2025-02-04,10,17,20.61
+159,12,Harborlight Commodities,Santos,Qingdao,Grain,73510.6,2025-02-03,2025-02-05,2025-02-07,2025-03-09,8,22,21.62
+160,12,Continental Grain Corp,Gladstone,Kandla,Coal,73677.81,2025-03-12,2025-03-15,2025-03-15,2025-04-05,6,15,21.57
+161,12,Ironbridge Resources,Gladstone,Kandla,Coal,69847.81,2025-04-09,2025-04-10,2025-04-13,2025-05-08,9,16,15.41
+162,12,Meridian Bulk Shipping,Santos,Qingdao,Grain,71536.83,2025-05-16,2025-05-19,2025-05-17,2025-06-14,9,19,24.31
+163,12,Continental Grain Corp,Gladstone,Kandla,Coal,74146.25,2025-06-21,2025-06-24,2025-06-24,2025-07-18,8,16,16.19
+164,12,Vantage Ore Traders,Santos,Qingdao,Grain,71803.42,2025-07-23,2025-07-25,2025-07-25,2025-08-28,12,22,23.15
+165,12,Kestrel Commodities,New Orleans,Qingdao,Grain,70366.6,2025-08-29,2025-09-03,2025-08-31,2025-10-05,12,23,20.3
+166,12,Kestrel Commodities,Santos,Qingdao,Grain,69154.25,2025-10-13,2025-10-18,2025-10-15,2025-11-10,4,22,22.77
+167,12,Kestrel Commodities,Santos,Qingdao,Grain,69236.97,2025-11-17,2025-11-18,2025-11-18,2025-12-10,4,18,24.4
+168,12,Redwood Grain Traders,New Orleans,Qingdao,Grain,72658.28,2025-12-17,2025-12-19,2025-12-19,2026-01-17,8,21,31.7
+169,13,Kestrel Commodities,Gladstone,Kandla,Coal,69784.74,2024-07-14,2024-07-15,2024-07-17,2024-08-15,12,17,19.37
+170,13,Deep Blue Chartering,Santos,Qingdao,Grain,68792.76,2024-08-13,2024-08-18,2024-08-17,2024-09-22,11,25,18.76
+171,13,Meridian Bulk Shipping,New Orleans,Qingdao,Grain,67060.82,2024-09-24,2024-09-26,2024-09-25,2024-10-29,10,24,19.41
+172,13,Harborlight Commodities,Santos,Qingdao,Grain,66401.36,2024-10-29,2024-10-30,2024-10-31,2024-11-29,11,18,27.92
+173,13,Anchorpoint Bulk Carriers,New Orleans,Qingdao,Grain,68005.01,2024-12-04,2024-12-08,2024-12-06,2024-12-31,8,17,18.85
+174,13,Continental Grain Corp,New Orleans,Qingdao,Grain,68187.34,2025-01-05,2025-01-10,2025-01-09,2025-02-12,9,25,23.83
+175,13,Kestrel Commodities,Santos,Qingdao,Grain,69126.77,2025-02-16,2025-02-21,2025-02-17,2025-03-17,6,22,21.0
+176,13,Anchorpoint Bulk Carriers,Santos,Qingdao,Grain,67684.62,2025-03-18,2025-03-19,2025-03-20,2025-04-14,9,16,24.08
+177,13,Harborlight Commodities,New Orleans,Qingdao,Grain,74570.2,2025-04-21,2025-04-24,2025-04-24,2025-05-23,11,18,18.21
+178,13,Deep Blue Chartering,Gladstone,Kandla,Coal,71216.15,2025-05-26,2025-05-31,2025-05-28,2025-06-25,7,21,16.83
+179,13,Summit Freight & Trading,Santos,Qingdao,Grain,74143.3,2025-07-01,2025-07-04,2025-07-05,2025-08-01,11,16,20.45
+180,13,Summit Freight & Trading,Santos,Qingdao,Grain,66524.11,2025-07-30,2025-08-02,2025-08-03,2025-09-08,12,24,19.96
+181,13,Continental Grain Corp,Santos,Qingdao,Grain,66682.34,2025-09-11,2025-09-15,2025-09-15,2025-10-21,11,25,25.54
+182,14,Harborlight Commodities,Gladstone,Kandla,Coal,72123.92,2024-07-15,2024-07-16,2024-07-16,2024-08-05,4,16,22.43
+183,14,Summit Freight & Trading,Santos,Qingdao,Grain,65157.32,2024-08-10,2024-08-14,2024-08-14,2024-09-11,4,24,22.39
+184,14,Continental Grain Corp,New Orleans,Qingdao,Grain,66070.16,2024-09-13,2024-09-15,2024-09-17,2024-10-24,12,25,19.35
+185,14,TransOcean Bulk Partners,New Orleans,Qingdao,Grain,67432.08,2024-10-28,2024-11-02,2024-11-01,2024-12-01,9,21,27.76
+186,14,Polaris Minerals,New Orleans,Qingdao,Grain,69760.05,2024-11-29,2024-12-04,2024-12-03,2025-01-03,10,21,26.91
+187,14,Vantage Ore Traders,Gladstone,Kandla,Coal,72755.0,2025-01-04,2025-01-09,2025-01-06,2025-01-28,4,18,14.47
+188,14,Summit Freight & Trading,New Orleans,Qingdao,Grain,66441.92,2025-01-28,2025-02-02,2025-01-30,2025-02-23,9,15,29.49
+189,14,Vantage Ore Traders,Gladstone,Kandla,Coal,75904.98,2025-02-27,2025-03-01,2025-03-03,2025-04-04,12,20,20.89
+190,14,Deep Blue Chartering,New Orleans,Qingdao,Grain,65296.26,2025-04-08,2025-04-11,2025-04-12,2025-05-07,5,20,21.83
+191,14,Redwood Grain Traders,New Orleans,Qingdao,Grain,67679.72,2025-05-14,2025-05-15,2025-05-15,2025-06-10,8,18,23.32
+192,14,Kestrel Commodities,Santos,Qingdao,Grain,65872.97,2025-06-15,2025-06-17,2025-06-16,2025-07-14,9,19,21.17
+193,14,Vantage Ore Traders,Gladstone,Kandla,Coal,68123.41,2025-07-18,2025-07-22,2025-07-21,2025-08-19,5,24,18.14
+194,14,Deep Blue Chartering,Gladstone,Kandla,Coal,69388.4,2025-08-20,2025-08-22,2025-08-24,2025-09-22,12,17,17.01
+195,14,Anchorpoint Bulk Carriers,Santos,Qingdao,Grain,72208.99,2025-09-25,2025-09-27,2025-09-28,2025-10-23,5,20,21.95
+196,14,Redwood Grain Traders,Santos,Qingdao,Grain,69306.16,2025-10-27,2025-10-30,2025-10-31,2025-11-30,10,20,25.88
+197,15,Ironbridge Resources,Paranagua,Rotterdam,Grain,57742.1,2024-07-22,2024-07-26,2024-07-25,2024-08-18,9,15,30.95
+198,15,Polaris Minerals,Richards Bay,Chennai,Coal,52161.5,2024-08-19,2024-08-24,2024-08-21,2024-09-15,6,19,23.27
+199,15,Summit Freight & Trading,Vancouver,Shanghai,Grain,52021.45,2024-09-15,2024-09-17,2024-09-18,2024-10-10,10,12,19.85
+200,15,Polaris Minerals,Richards Bay,Chennai,Coal,52220.59,2024-10-15,2024-10-20,2024-10-19,2024-11-15,9,18,25.68
+201,15,Redwood Grain Traders,Paranagua,Rotterdam,Grain,55176.0,2024-11-15,2024-11-17,2024-11-18,2024-12-14,6,20,20.62
+202,15,Anchorpoint Bulk Carriers,Paranagua,Rotterdam,Grain,54085.41,2024-12-19,2024-12-21,2024-12-22,2025-01-05,3,11,27.26
+203,15,Vantage Ore Traders,Richards Bay,Chennai,Coal,52627.3,2025-01-13,2025-01-17,2025-01-14,2025-02-03,5,15,20.16
+204,15,Polaris Minerals,Vancouver,Shanghai,Grain,53809.3,2025-02-05,2025-02-08,2025-02-09,2025-03-04,10,13,23.26
+205,15,Kestrel Commodities,Paranagua,Rotterdam,Grain,57439.38,2025-03-06,2025-03-08,2025-03-07,2025-04-04,8,20,30.37
+206,15,Meridian Bulk Shipping,Paranagua,Rotterdam,Grain,55123.83,2025-04-11,2025-04-13,2025-04-13,2025-05-12,9,20,26.05
+207,15,Vantage Ore Traders,Vancouver,Shanghai,Grain,56018.6,2025-05-18,2025-05-21,2025-05-20,2025-06-05,3,13,27.7
+208,15,Redwood Grain Traders,Vancouver,Shanghai,Grain,55365.61,2025-06-11,2025-06-14,2025-06-12,2025-07-05,6,17,23.87
+209,15,Redwood Grain Traders,Vancouver,Shanghai,Grain,57349.46,2025-07-06,2025-07-09,2025-07-08,2025-08-02,8,17,25.08
+210,16,Redwood Grain Traders,Richards Bay,Chennai,Coal,54302.26,2024-07-17,2024-07-22,2024-07-19,2024-08-13,9,16,17.86
+211,16,Anchorpoint Bulk Carriers,Richards Bay,Chennai,Coal,53122.59,2024-08-14,2024-08-16,2024-08-17,2024-09-08,5,17,24.42
+212,16,Deep Blue Chartering,Paranagua,Rotterdam,Grain,55477.57,2024-09-08,2024-09-12,2024-09-12,2024-10-09,9,18,25.82
+213,16,Anchorpoint Bulk Carriers,Vancouver,Shanghai,Grain,52309.36,2024-10-12,2024-10-17,2024-10-14,2024-10-31,3,14,27.37
+214,16,Polaris Minerals,Richards Bay,Chennai,Coal,56935.67,2024-10-31,2024-11-05,2024-11-03,2024-11-21,4,14,16.42
+215,16,Vantage Ore Traders,Vancouver,Shanghai,Grain,56897.6,2024-11-23,2024-11-26,2024-11-26,2024-12-16,3,17,19.04
+216,16,Anchorpoint Bulk Carriers,Richards Bay,Chennai,Coal,56881.18,2024-12-21,2024-12-23,2024-12-23,2025-01-13,9,12,24.05
+217,16,Vantage Ore Traders,Richards Bay,Chennai,Coal,57912.93,2025-01-17,2025-01-22,2025-01-20,2025-02-10,7,14,22.79
+218,16,Redwood Grain Traders,Vancouver,Shanghai,Grain,55691.16,2025-02-10,2025-02-12,2025-02-12,2025-03-01,5,12,27.94
+219,16,Ironbridge Resources,Vancouver,Shanghai,Grain,54124.91,2025-03-08,2025-03-12,2025-03-09,2025-03-30,10,11,21.34
+220,16,Summit Freight & Trading,Richards Bay,Chennai,Coal,56774.07,2025-03-30,2025-03-31,2025-04-02,2025-05-02,10,20,19.98
+221,16,Meridian Bulk Shipping,Vancouver,Shanghai,Grain,57153.24,2025-05-04,2025-05-07,2025-05-08,2025-06-01,5,19,27.15
+222,17,Redwood Grain Traders,Vancouver,Shanghai,Grain,57965.55,2024-07-16,2024-07-18,2024-07-20,2024-08-09,10,10,28.91
+223,17,Meridian Bulk Shipping,Richards Bay,Chennai,Coal,55987.05,2024-08-11,2024-08-14,2024-08-12,2024-09-03,8,14,22.49
+224,17,Harborlight Commodities,Vancouver,Shanghai,Grain,53814.45,2024-09-07,2024-09-09,2024-09-08,2024-09-23,4,11,19.59
+225,17,Vantage Ore Traders,Paranagua,Rotterdam,Grain,51831.57,2024-09-26,2024-09-27,2024-09-30,2024-10-21,9,12,21.25
+226,17,Polaris Minerals,Paranagua,Rotterdam,Grain,55200.16,2024-10-28,2024-11-02,2024-10-29,2024-11-14,5,11,26.16
+227,17,Summit Freight & Trading,Paranagua,Rotterdam,Grain,54716.59,2024-11-21,2024-11-22,2024-11-23,2024-12-08,4,11,25.38
+228,17,Polaris Minerals,Paranagua,Rotterdam,Grain,54141.99,2024-12-08,2024-12-10,2024-12-11,2024-12-28,7,10,27.13
+229,17,Meridian Bulk Shipping,Vancouver,Shanghai,Grain,55104.66,2024-12-31,2025-01-04,2025-01-02,2025-01-22,9,11,18.85
+230,17,Harborlight Commodities,Vancouver,Shanghai,Grain,54698.91,2025-01-29,2025-01-30,2025-01-30,2025-02-21,5,17,18.17
+231,17,Continental Grain Corp,Vancouver,Shanghai,Grain,55124.3,2025-02-27,2025-02-28,2025-03-03,2025-03-28,9,16,24.45
+232,17,Harborlight Commodities,Paranagua,Rotterdam,Grain,55589.41,2025-04-01,2025-04-04,2025-04-02,2025-04-26,8,16,30.22
+233,17,Meridian Bulk Shipping,Richards Bay,Chennai,Coal,52075.99,2025-05-03,2025-05-04,2025-05-05,2025-05-22,3,14,17.37
+234,17,Summit Freight & Trading,Paranagua,Rotterdam,Grain,56171.44,2025-05-25,2025-05-26,2025-05-28,2025-06-17,8,12,20.41
+235,17,Ironbridge Resources,Vancouver,Shanghai,Grain,53996.88,2025-06-17,2025-06-18,2025-06-20,2025-07-18,10,18,24.8
+236,17,Continental Grain Corp,Paranagua,Rotterdam,Grain,50367.85,2025-07-20,2025-07-22,2025-07-21,2025-08-03,3,10,25.1
+237,17,Ironbridge Resources,Paranagua,Rotterdam,Grain,52170.06,2025-08-07,2025-08-10,2025-08-11,2025-09-01,8,13,21.09
+238,18,Vantage Ore Traders,Paranagua,Rotterdam,Grain,56188.22,2024-07-27,2024-07-30,2024-07-31,2024-08-20,9,11,24.35
+239,18,Harborlight Commodities,Richards Bay,Chennai,Coal,57831.15,2024-08-23,2024-08-28,2024-08-26,2024-09-18,6,17,25.98
+240,18,Meridian Bulk Shipping,Paranagua,Rotterdam,Grain,52771.39,2024-09-20,2024-09-25,2024-09-22,2024-10-11,9,10,31.75
+241,18,Continental Grain Corp,Paranagua,Rotterdam,Grain,53936.23,2024-10-15,2024-10-19,2024-10-17,2024-11-10,6,18,20.84
+242,18,Summit Freight & Trading,Vancouver,Shanghai,Grain,50764.62,2024-11-19,2024-11-24,2024-11-20,2024-12-15,8,17,19.6
+243,18,Ironbridge Resources,Paranagua,Rotterdam,Grain,55605.8,2024-12-16,2024-12-20,2024-12-19,2025-01-09,7,14,30.29
+244,18,Vantage Ore Traders,Richards Bay,Chennai,Coal,54697.4,2025-01-12,2025-01-14,2025-01-13,2025-01-29,4,12,19.14
+245,18,Polaris Minerals,Vancouver,Shanghai,Grain,56460.78,2025-02-03,2025-02-05,2025-02-04,2025-02-22,7,11,21.65
+246,18,TransOcean Bulk Partners,Paranagua,Rotterdam,Grain,54107.68,2025-02-26,2025-03-02,2025-03-01,2025-03-18,4,13,29.48
+247,18,Meridian Bulk Shipping,Richards Bay,Chennai,Coal,56823.38,2025-03-23,2025-03-24,2025-03-27,2025-04-13,6,11,17.4
+248,18,Vantage Ore Traders,Vancouver,Shanghai,Grain,54688.95,2025-04-17,2025-04-22,2025-04-18,2025-05-16,8,20,29.01
+249,18,Anchorpoint Bulk Carriers,Paranagua,Rotterdam,Grain,57538.25,2025-05-24,2025-05-25,2025-05-25,2025-06-13,4,15,20.71
+250,18,Deep Blue Chartering,Richards Bay,Chennai,Coal,57449.83,2025-06-18,2025-06-20,2025-06-21,2025-07-12,9,12,18.75
+251,18,Summit Freight & Trading,Richards Bay,Chennai,Coal,54874.19,2025-07-13,2025-07-18,2025-07-17,2025-08-10,7,17,16.88
+252,18,Anchorpoint Bulk Carriers,Paranagua,Rotterdam,Grain,54356.14,2025-08-17,2025-08-21,2025-08-20,2025-09-08,3,16,26.79
+253,18,Ironbridge Resources,Richards Bay,Chennai,Coal,56851.92,2025-09-12,2025-09-13,2025-09-15,2025-10-01,6,10,20.72
+254,19,Continental Grain Corp,Vancouver,Shanghai,Grain,57481.65,2024-07-18,2024-07-21,2024-07-22,2024-08-07,3,13,29.9
+255,19,Deep Blue Chartering,Richards Bay,Chennai,Coal,57690.21,2024-08-12,2024-08-17,2024-08-14,2024-09-01,3,15,24.37
+256,19,Continental Grain Corp,Paranagua,Rotterdam,Grain,52653.87,2024-08-30,2024-08-31,2024-09-03,2024-09-19,6,10,28.6
+257,19,Vantage Ore Traders,Paranagua,Rotterdam,Grain,56771.85,2024-09-24,2024-09-25,2024-09-26,2024-10-11,3,12,32.05
+258,19,Redwood Grain Traders,Vancouver,Shanghai,Grain,55858.82,2024-10-12,2024-10-14,2024-10-14,2024-11-05,7,15,23.24
+259,19,Continental Grain Corp,Richards Bay,Chennai,Coal,53840.94,2024-11-13,2024-11-17,2024-11-15,2024-12-06,8,13,22.88
+260,19,Deep Blue Chartering,Richards Bay,Chennai,Coal,53325.37,2024-12-11,2024-12-16,2024-12-14,2024-12-29,3,12,21.66
+261,19,Polaris Minerals,Paranagua,Rotterdam,Grain,50091.16,2025-01-02,2025-01-06,2025-01-05,2025-01-29,4,20,22.94
+262,19,Summit Freight & Trading,Paranagua,Rotterdam,Grain,57076.42,2025-01-27,2025-01-29,2025-01-31,2025-02-26,9,17,26.9
+263,19,Vantage Ore Traders,Paranagua,Rotterdam,Grain,50160.62,2025-03-02,2025-03-05,2025-03-03,2025-03-24,10,11,23.66
+264,19,Anchorpoint Bulk Carriers,Richards Bay,Chennai,Coal,54587.94,2025-03-23,2025-03-24,2025-03-27,2025-04-15,4,15,22.54
+265,20,Anchorpoint Bulk Carriers,Richards Bay,Chennai,Coal,53425.29,2024-07-25,2024-07-28,2024-07-28,2024-08-24,7,20,16.5
+266,20,Redwood Grain Traders,Vancouver,Shanghai,Grain,50775.9,2024-08-22,2024-08-24,2024-08-26,2024-09-13,4,14,20.48
+267,20,Ironbridge Resources,Vancouver,Shanghai,Grain,55134.93,2024-09-16,2024-09-17,2024-09-19,2024-10-16,10,17,22.65
+268,20,Polaris Minerals,Vancouver,Shanghai,Grain,54513.97,2024-10-20,2024-10-23,2024-10-22,2024-11-15,10,14,19.81
+269,20,Kestrel Commodities,Vancouver,Shanghai,Grain,56547.24,2024-11-24,2024-11-28,2024-11-25,2024-12-19,6,18,23.02
+270,20,Anchorpoint Bulk Carriers,Vancouver,Shanghai,Grain,54016.81,2024-12-20,2024-12-21,2024-12-24,2025-01-11,7,11,28.81
+271,20,Redwood Grain Traders,Paranagua,Rotterdam,Grain,50341.41,2025-01-18,2025-01-20,2025-01-20,2025-02-07,5,13,21.1
+272,20,TransOcean Bulk Partners,Vancouver,Shanghai,Grain,53178.84,2025-02-09,2025-02-14,2025-02-13,2025-02-28,4,11,21.91
+273,20,Vantage Ore Traders,Vancouver,Shanghai,Grain,54532.75,2025-03-08,2025-03-10,2025-03-10,2025-03-30,4,16,24.99
+274,20,Deep Blue Chartering,Richards Bay,Chennai,Coal,55928.73,2025-04-02,2025-04-06,2025-04-05,2025-04-29,8,16,21.72
+275,20,Ironbridge Resources,Paranagua,Rotterdam,Grain,55966.0,2025-05-05,2025-05-06,2025-05-07,2025-05-31,9,15,32.89
+276,21,Ironbridge Resources,Richards Bay,Chennai,Coal,57845.32,2024-07-28,2024-07-31,2024-07-30,2024-08-16,4,13,20.43
+277,21,Kestrel Commodities,Vancouver,Shanghai,Grain,56937.51,2024-08-17,2024-08-22,2024-08-21,2024-09-12,6,16,27.85
+278,21,Deep Blue Chartering,Paranagua,Rotterdam,Grain,56695.81,2024-09-18,2024-09-20,2024-09-20,2024-10-05,3,12,23.49
+279,21,Deep Blue Chartering,Vancouver,Shanghai,Grain,51935.5,2024-10-11,2024-10-12,2024-10-12,2024-11-10,9,20,23.87
+280,21,Anchorpoint Bulk Carriers,Vancouver,Shanghai,Grain,50219.6,2024-11-16,2024-11-19,2024-11-17,2024-12-06,5,14,18.6
+281,21,Redwood Grain Traders,Richards Bay,Chennai,Coal,52120.31,2024-12-07,2024-12-12,2024-12-11,2024-12-31,6,14,23.8
+282,21,Ironbridge Resources,Paranagua,Rotterdam,Grain,53390.45,2024-12-30,2025-01-02,2025-01-02,2025-01-28,7,19,25.27
+283,21,Ironbridge Resources,Richards Bay,Chennai,Coal,55069.08,2025-02-06,2025-02-07,2025-02-07,2025-03-07,9,19,22.62
+284,21,Polaris Minerals,Vancouver,Shanghai,Grain,56891.93,2025-03-07,2025-03-10,2025-03-10,2025-03-29,4,15,21.13
+285,21,Redwood Grain Traders,Paranagua,Rotterdam,Grain,55446.05,2025-04-04,2025-04-07,2025-04-08,2025-04-30,3,19,30.1
+286,21,Kestrel Commodities,Vancouver,Shanghai,Grain,55812.4,2025-05-06,2025-05-09,2025-05-08,2025-05-30,3,19,20.67
+287,21,TransOcean Bulk Partners,Richards Bay,Chennai,Coal,52585.62,2025-06-04,2025-06-07,2025-06-06,2025-06-25,7,12,17.28
+288,21,Ironbridge Resources,Richards Bay,Chennai,Coal,56465.26,2025-06-29,2025-07-01,2025-07-02,2025-07-19,4,13,19.07
+289,21,Redwood Grain Traders,Vancouver,Shanghai,Grain,57115.41,2025-07-21,2025-07-25,2025-07-22,2025-08-14,3,20,24.01
+290,21,Continental Grain Corp,Paranagua,Rotterdam,Grain,57142.76,2025-08-14,2025-08-19,2025-08-18,2025-09-08,6,15,33.81
+291,21,Continental Grain Corp,Vancouver,Shanghai,Grain,53616.43,2025-09-16,2025-09-17,2025-09-17,2025-10-07,5,15,20.51
+292,22,Meridian Bulk Shipping,Recife,Alexandria,Sugar,37722.62,2024-07-30,2024-08-03,2024-08-03,2024-08-25,8,14,25.37
+293,22,TransOcean Bulk Partners,Houston,Veracruz,Steel Products,29357.59,2024-08-31,2024-09-02,2024-09-01,2024-09-13,4,8,38.03
+294,22,Ironbridge Resources,Rotterdam,Casablanca,Fertilizer,33822.66,2024-09-14,2024-09-18,2024-09-17,2024-10-02,3,12,30.35
+295,22,Continental Grain Corp,Recife,Alexandria,Sugar,31827.35,2024-10-07,2024-10-08,2024-10-11,2024-10-25,4,10,30.18
+296,22,Anchorpoint Bulk Carriers,Recife,Alexandria,Sugar,36170.0,2024-10-24,2024-10-27,2024-10-28,2024-11-13,8,8,28.72
+297,22,Deep Blue Chartering,Rotterdam,Casablanca,Fertilizer,31042.03,2024-11-11,2024-11-15,2024-11-15,2024-12-02,8,9,29.66
+298,22,Vantage Ore Traders,Recife,Alexandria,Sugar,34845.07,2024-12-01,2024-12-06,2024-12-04,2024-12-19,6,9,21.92
+299,22,Summit Freight & Trading,Recife,Alexandria,Sugar,37784.96,2024-12-19,2024-12-24,2024-12-22,2025-01-06,4,11,25.01
+300,22,Vantage Ore Traders,Houston,Veracruz,Steel Products,28076.5,2025-01-09,2025-01-10,2025-01-11,2025-01-30,6,13,25.42
+301,22,TransOcean Bulk Partners,Houston,Veracruz,Steel Products,30740.51,2025-01-30,2025-02-01,2025-02-02,2025-02-14,3,9,39.64
+302,22,Meridian Bulk Shipping,Recife,Alexandria,Sugar,30759.99,2025-02-12,2025-02-13,2025-02-16,2025-03-06,5,13,30.61
+303,23,Deep Blue Chartering,Houston,Veracruz,Steel Products,29097.22,2024-07-26,2024-07-29,2024-07-29,2024-08-12,5,9,30.41
+304,23,Vantage Ore Traders,Houston,Veracruz,Steel Products,33889.42,2024-08-18,2024-08-19,2024-08-20,2024-09-02,4,9,37.51
+305,23,Polaris Minerals,Rotterdam,Casablanca,Fertilizer,28230.53,2024-09-08,2024-09-13,2024-09-11,2024-10-02,7,14,31.58
+306,23,Redwood Grain Traders,Recife,Alexandria,Sugar,35239.79,2024-10-04,2024-10-07,2024-10-05,2024-10-19,6,8,20.17
+307,23,Ironbridge Resources,Houston,Veracruz,Steel Products,31970.28,2024-10-23,2024-10-27,2024-10-24,2024-11-14,5,16,27.98
+308,23,Continental Grain Corp,Houston,Veracruz,Steel Products,33093.07,2024-11-22,2024-11-27,2024-11-24,2024-12-05,3,8,37.63
+309,23,Deep Blue Chartering,Rotterdam,Casablanca,Fertilizer,34536.83,2024-12-07,2024-12-11,2024-12-11,2024-12-29,7,11,23.1
+310,23,Kestrel Commodities,Recife,Alexandria,Sugar,33227.52,2025-01-06,2025-01-07,2025-01-07,2025-01-25,3,15,20.5
+311,23,Harborlight Commodities,Houston,Veracruz,Steel Products,30180.05,2025-01-27,2025-01-30,2025-01-31,2025-02-18,7,11,24.87
+312,23,Meridian Bulk Shipping,Houston,Veracruz,Steel Products,28584.62,2025-02-23,2025-02-24,2025-02-27,2025-03-20,8,13,34.54
+313,23,Polaris Minerals,Houston,Veracruz,Steel Products,33381.26,2025-03-25,2025-03-26,2025-03-26,2025-04-15,7,13,31.88
+314,23,Ironbridge Resources,Rotterdam,Casablanca,Fertilizer,34596.43,2025-04-18,2025-04-22,2025-04-20,2025-05-07,3,14,24.67
+315,24,Kestrel Commodities,Recife,Alexandria,Sugar,30034.7,2024-07-27,2024-07-31,2024-07-29,2024-08-22,8,16,30.31
+316,24,Ironbridge Resources,Rotterdam,Casablanca,Fertilizer,31099.24,2024-08-30,2024-08-31,2024-09-01,2024-09-19,8,10,30.41
+317,24,Anchorpoint Bulk Carriers,Recife,Alexandria,Sugar,36438.37,2024-09-21,2024-09-25,2024-09-24,2024-10-13,6,13,21.93
+318,24,Redwood Grain Traders,Recife,Alexandria,Sugar,31677.7,2024-10-21,2024-10-23,2024-10-23,2024-11-16,8,16,30.0
+319,24,Redwood Grain Traders,Houston,Veracruz,Steel Products,31373.68,2024-11-19,2024-11-22,2024-11-20,2024-12-10,7,13,33.32
+320,24,Meridian Bulk Shipping,Recife,Alexandria,Sugar,33046.96,2024-12-19,2024-12-20,2024-12-20,2025-01-03,6,8,20.74
+321,24,Ironbridge Resources,Houston,Veracruz,Steel Products,29224.01,2025-01-08,2025-01-11,2025-01-09,2025-01-24,5,10,32.66
+322,24,Polaris Minerals,Rotterdam,Casablanca,Fertilizer,32087.38,2025-01-30,2025-02-01,2025-02-03,2025-02-27,8,16,33.16
+323,24,Deep Blue Chartering,Recife,Alexandria,Sugar,35949.36,2025-03-06,2025-03-07,2025-03-07,2025-03-28,8,13,22.84
+324,24,Vantage Ore Traders,Houston,Veracruz,Steel Products,30692.89,2025-04-02,2025-04-05,2025-04-04,2025-04-22,7,11,39.74
+325,24,Meridian Bulk Shipping,Rotterdam,Casablanca,Fertilizer,29287.43,2025-04-27,2025-04-29,2025-04-30,2025-05-18,6,12,33.84
+326,24,Vantage Ore Traders,Recife,Alexandria,Sugar,36319.27,2025-05-19,2025-05-23,2025-05-22,2025-06-06,7,8,27.7
+327,24,Ironbridge Resources,Houston,Veracruz,Steel Products,31258.48,2025-06-08,2025-06-12,2025-06-10,2025-06-29,3,16,30.45
+328,24,Meridian Bulk Shipping,Recife,Alexandria,Sugar,36589.51,2025-07-02,2025-07-07,2025-07-06,2025-07-26,4,16,33.74
+329,24,TransOcean Bulk Partners,Rotterdam,Casablanca,Fertilizer,31087.01,2025-07-27,2025-07-28,2025-07-31,2025-08-21,8,13,29.56
+330,24,Kestrel Commodities,Houston,Veracruz,Steel Products,33389.69,2025-08-30,2025-09-02,2025-08-31,2025-09-21,6,15,27.08
+331,25,Polaris Minerals,Houston,Veracruz,Steel Products,33013.99,2024-07-13,2024-07-17,2024-07-15,2024-07-29,3,11,27.29
+332,25,Vantage Ore Traders,Houston,Veracruz,Steel Products,32301.21,2024-07-31,2024-08-04,2024-08-01,2024-08-19,8,10,24.61
+333,25,Redwood Grain Traders,Recife,Alexandria,Sugar,33464.2,2024-08-20,2024-08-24,2024-08-24,2024-09-13,6,14,20.24
+334,25,Redwood Grain Traders,Houston,Veracruz,Steel Products,33568.29,2024-09-15,2024-09-18,2024-09-16,2024-10-01,7,8,25.7
+335,25,Summit Freight & Trading,Recife,Alexandria,Sugar,34267.74,2024-10-06,2024-10-08,2024-10-10,2024-10-24,6,8,21.91
+336,25,Meridian Bulk Shipping,Recife,Alexandria,Sugar,36998.14,2024-10-27,2024-11-01,2024-10-28,2024-11-18,8,13,21.98
+337,25,Continental Grain Corp,Recife,Alexandria,Sugar,37245.02,2024-11-19,2024-11-23,2024-11-21,2024-12-08,4,13,31.92
+338,25,TransOcean Bulk Partners,Rotterdam,Casablanca,Fertilizer,28585.16,2024-12-09,2024-12-14,2024-12-13,2024-12-25,4,8,31.4
+339,25,Ironbridge Resources,Recife,Alexandria,Sugar,34956.13,2024-12-31,2025-01-03,2025-01-01,2025-01-16,4,11,32.6
+340,25,Harborlight Commodities,Houston,Veracruz,Steel Products,29011.84,2025-01-17,2025-01-21,2025-01-20,2025-02-09,7,13,29.01
+341,25,Deep Blue Chartering,Rotterdam,Casablanca,Fertilizer,31562.86,2025-02-12,2025-02-16,2025-02-16,2025-03-09,8,13,32.85
+342,25,Kestrel Commodities,Rotterdam,Casablanca,Fertilizer,33819.4,2025-03-12,2025-03-13,2025-03-15,2025-04-02,7,11,34.49
+343,25,Anchorpoint Bulk Carriers,Rotterdam,Casablanca,Fertilizer,30926.55,2025-04-03,2025-04-05,2025-04-07,2025-04-26,7,12,25.13
+344,25,Anchorpoint Bulk Carriers,Rotterdam,Casablanca,Fertilizer,34783.85,2025-05-05,2025-05-07,2025-05-06,2025-05-25,6,13,33.29
+345,26,Harborlight Commodities,Houston,Veracruz,Steel Products,28242.52,2024-07-29,2024-08-01,2024-08-02,2024-08-20,8,10,36.18
+346,26,Redwood Grain Traders,Houston,Veracruz,Steel Products,33289.31,2024-08-21,2024-08-25,2024-08-25,2024-09-13,5,14,24.64
+347,26,Redwood Grain Traders,Houston,Veracruz,Steel Products,31922.05,2024-09-17,2024-09-21,2024-09-19,2024-10-10,5,16,29.84
+348,26,Meridian Bulk Shipping,Houston,Veracruz,Steel Products,32755.94,2024-10-12,2024-10-16,2024-10-15,2024-11-03,6,13,38.19
+349,26,Polaris Minerals,Houston,Veracruz,Steel Products,29121.43,2024-11-04,2024-11-06,2024-11-06,2024-11-26,8,12,29.8
+350,26,Summit Freight & Trading,Houston,Veracruz,Steel Products,29264.22,2024-11-29,2024-12-03,2024-12-03,2024-12-21,3,15,26.58
+351,26,Continental Grain Corp,Rotterdam,Casablanca,Fertilizer,29174.92,2024-12-24,2024-12-29,2024-12-25,2025-01-18,8,16,24.33
+352,26,Deep Blue Chartering,Houston,Veracruz,Steel Products,30695.22,2025-01-19,2025-01-21,2025-01-20,2025-02-09,8,12,39.88
+353,26,Deep Blue Chartering,Houston,Veracruz,Steel Products,32345.12,2025-02-10,2025-02-12,2025-02-13,2025-03-09,8,16,29.48
+354,26,Anchorpoint Bulk Carriers,Rotterdam,Casablanca,Fertilizer,32844.09,2025-03-09,2025-03-11,2025-03-13,2025-03-27,3,11,24.48
+355,26,Meridian Bulk Shipping,Rotterdam,Casablanca,Fertilizer,32176.35,2025-03-29,2025-04-02,2025-03-30,2025-04-15,6,10,27.19
+356,27,Vantage Ore Traders,Recife,Alexandria,Sugar,32036.14,2024-07-23,2024-07-25,2024-07-27,2024-08-12,7,9,30.72
+357,27,Polaris Minerals,Rotterdam,Casablanca,Fertilizer,28057.55,2024-08-16,2024-08-21,2024-08-17,2024-09-02,8,8,31.16
+358,27,TransOcean Bulk Partners,Houston,Veracruz,Steel Products,30541.37,2024-09-07,2024-09-12,2024-09-10,2024-09-29,7,12,29.85
+359,27,TransOcean Bulk Partners,Houston,Veracruz,Steel Products,31329.47,2024-10-06,2024-10-11,2024-10-09,2024-10-25,6,10,28.06
+360,27,Ironbridge Resources,Houston,Veracruz,Steel Products,28601.67,2024-10-25,2024-10-27,2024-10-29,2024-11-12,3,11,32.13
+361,27,Vantage Ore Traders,Rotterdam,Casablanca,Fertilizer,31773.35,2024-11-13,2024-11-15,2024-11-14,2024-11-28,6,8,30.4
+362,27,Continental Grain Corp,Houston,Veracruz,Steel Products,28344.78,2024-11-27,2024-12-02,2024-11-30,2024-12-20,6,14,36.38
+363,27,Harborlight Commodities,Recife,Alexandria,Sugar,31355.86,2024-12-28,2025-01-02,2024-12-30,2025-01-11,4,8,20.5
+364,27,Polaris Minerals,Recife,Alexandria,Sugar,31602.48,2025-01-13,2025-01-18,2025-01-17,2025-02-05,5,14,20.22
+365,27,Summit Freight & Trading,Houston,Veracruz,Steel Products,31638.18,2025-02-12,2025-02-14,2025-02-15,2025-03-05,5,13,27.11
+366,27,TransOcean Bulk Partners,Houston,Veracruz,Steel Products,33682.09,2025-03-05,2025-03-08,2025-03-08,2025-03-27,3,16,36.85
+367,27,Deep Blue Chartering,Recife,Alexandria,Sugar,37689.91,2025-04-03,2025-04-06,2025-04-05,2025-04-27,7,15,26.42
+368,27,Kestrel Commodities,Rotterdam,Casablanca,Fertilizer,31299.41,2025-05-01,2025-05-04,2025-05-03,2025-05-20,6,11,26.94
+369,27,Ironbridge Resources,Recife,Alexandria,Sugar,37451.17,2025-05-22,2025-05-27,2025-05-23,2025-06-13,8,13,26.67
+370,27,Harborlight Commodities,Recife,Alexandria,Sugar,36981.94,2025-06-16,2025-06-18,2025-06-18,2025-07-07,8,11,22.89
+371,27,Ironbridge Resources,Rotterdam,Casablanca,Fertilizer,35663.94,2025-07-09,2025-07-14,2025-07-10,2025-07-28,3,15,33.87
+372,28,Summit Freight & Trading,Houston,Veracruz,Steel Products,28769.48,2024-07-18,2024-07-23,2024-07-20,2024-08-08,5,14,32.41
+373,28,Meridian Bulk Shipping,Houston,Veracruz,Steel Products,30760.42,2024-08-15,2024-08-20,2024-08-16,2024-09-04,4,15,35.03
+374,28,Ironbridge Resources,Houston,Veracruz,Steel Products,29616.45,2024-09-08,2024-09-10,2024-09-11,2024-09-26,5,10,39.34
+375,28,Redwood Grain Traders,Recife,Alexandria,Sugar,34571.28,2024-09-29,2024-10-01,2024-10-03,2024-10-21,6,12,33.71
+376,28,Deep Blue Chartering,Houston,Veracruz,Steel Products,32800.22,2024-10-24,2024-10-26,2024-10-26,2024-11-15,6,14,35.82
+377,28,Meridian Bulk Shipping,Houston,Veracruz,Steel Products,29505.84,2024-11-21,2024-11-24,2024-11-25,2024-12-16,8,13,37.74
+378,28,Kestrel Commodities,Recife,Alexandria,Sugar,32078.15,2024-12-18,2024-12-21,2024-12-22,2025-01-08,8,9,25.04
+379,28,Deep Blue Chartering,Recife,Alexandria,Sugar,32840.87,2025-01-09,2025-01-12,2025-01-11,2025-01-30,8,11,29.42
+380,28,Summit Freight & Trading,Recife,Alexandria,Sugar,33374.53,2025-02-03,2025-02-06,2025-02-05,2025-02-23,8,10,28.57
+381,28,Deep Blue Chartering,Recife,Alexandria,Sugar,35157.15,2025-02-25,2025-03-02,2025-02-28,2025-03-17,5,12,23.8
+382,28,TransOcean Bulk Partners,Recife,Alexandria,Sugar,31000.32,2025-03-25,2025-03-26,2025-03-27,2025-04-12,6,10,23.28
+383,28,Summit Freight & Trading,Recife,Alexandria,Sugar,34387.47,2025-04-15,2025-04-19,2025-04-16,2025-04-28,3,9,20.37
+384,28,Redwood Grain Traders,Rotterdam,Casablanca,Fertilizer,29979.17,2025-04-29,2025-05-01,2025-05-02,2025-05-24,8,14,25.98
