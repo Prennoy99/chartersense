@@ -1,5 +1,11 @@
 # CharterSense
 
+[![License: MIT](https://img.shields.io/github/license/Prennoy99/chartersense?color=blue)](LICENSE)
+![Python](https://img.shields.io/badge/python-3.12%2B-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker&logoColor=white)
+
 **Semantic layer & natural-language query assistant for dry-bulk chartering data.**
 
 Ask a plain-English business question — *"What was our average TCE on
@@ -13,6 +19,19 @@ against an independently-computed ground truth.
 > sourced from, or resembles, any real company's actual chartering data.
 
 ![Chat UI — conversation example](docs/screenshots/02-conversation.png)
+
+## Contents
+
+- [Why this exists](#why-this-exists)
+- [Architecture](#architecture)
+- [Semantic layer](#semantic-layer)
+- [Data model](#data-model)
+- [Setup](#setup)
+- [Example Q&A](#example-qa)
+- [Testing & validation](#testing--validation)
+- [Project structure](#project-structure)
+- [Status](#status)
+- [License](#license)
 
 ## Why this exists
 
@@ -188,3 +207,7 @@ tests/                            pytest suite
 Milestones 1–4 (data & schema, semantic layer + ground truth, NL→SQL API,
 chat UI) and Milestone 5 (validation script, tests, this README) are
 complete.
+
+## License
+
+[MIT](LICENSE) — see the license file for the full text.
