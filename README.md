@@ -35,11 +35,12 @@ against an independently-computed ground truth.
 
 ## Why this exists
 
-This is a portfolio project built to demonstrate, end-to-end, what a "Data
-Product Manager – Analytics" role is expected to own: a well-scoped data
-product, a maintained semantic layer with consistent business-metric
-definitions, and an AI-driven self-service interface — plus the validation
-discipline to not just trust the LLM's answer, but independently verify it.
+Letting an LLM write SQL against a production database is easy to demo and hard
+to trust. This project is about the part that makes it trustworthy: a versioned
+semantic layer that pins business-metric definitions so the model cannot invent
+its own, a read-only database role that bounds what a generated query can do,
+and a validation harness that computes each answer independently and diffs the
+LLM against it — so the system is verified rather than assumed correct.
 
 ## Architecture
 
